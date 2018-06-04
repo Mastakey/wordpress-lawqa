@@ -1,0 +1,4619 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ask me 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-09 17:22+0200\n"
+"PO-Revision-Date: 2018-03-30 04:30+0200\n"
+"Last-Translator: vbegy <vbegy.info@gmail.com>\n"
+"Language-Team: vbegy <vbegy.info@gmail.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:7
+msgid "404"
+msgstr "404"
+
+#: ../404.php:8
+msgid "Opps! Page Not Found"
+msgstr ""
+
+#: ../404.php:11 ../template-recently_answered.php:53
+msgid "Home Page"
+msgstr "Головна сторінка"
+
+#: ../admin/functions/main_functions.php:474
+#: ../admin/functions/main_functions.php:620 ../includes/answers.php:97
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:478
+#: ../admin/functions/main_functions.php:481
+#: ../admin/functions/main_functions.php:624
+#: ../admin/functions/main_functions.php:627 ../includes/answers.php:101
+#: ../single-question.php:295
+msgid "Edit"
+msgstr "Редагувати"
+
+#: ../admin/functions/main_functions.php:484
+#: ../admin/functions/main_functions.php:633 ../template-asked_question.php:103
+#: ../template-messages.php:80 ../template-question_follow.php:63
+#: ../template-user_favorite_questions.php:69
+#: ../template-user_followed_questions.php:61
+#: ../template-user_paid_question.php:71 ../template-user_polls.php:75
+#: ../template-user_question.php:74
+msgid "Reply"
+msgstr "Відповісти"
+
+#: ../admin/functions/main_functions.php:489
+#: ../admin/functions/main_functions.php:648
+msgid "This comment is edited."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:492
+#: ../admin/functions/main_functions.php:651
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує на узгодження."
+
+#: ../admin/functions/main_functions.php:604
+#: ../admin/functions/main_functions.php:610 ../includes/answers.php:81
+#: ../includes/answers.php:87 ../question.php:178 ../question.php:183
+#: ../single-question.php:379 ../single-question.php:384
+msgid "Like"
+msgstr "Подобається"
+
+#: ../admin/functions/main_functions.php:606
+#: ../admin/functions/main_functions.php:612 ../includes/answers.php:83
+#: ../includes/answers.php:89 ../question.php:176 ../question.php:181
+#: ../single-question.php:377 ../single-question.php:382
+msgid "Dislike"
+msgstr "Не подобається"
+
+#: ../admin/functions/main_functions.php:631
+#: ../admin/functions/main_functions.php:643 ../includes/answers.php:110
+#: ../includes/answers.php:121 ../question.php:66 ../question.php:122
+#: ../single-question.php:140 ../single-question.php:166
+msgid "Report"
+msgstr "Скарга"
+
+#: ../admin/functions/main_functions.php:633
+msgid "Log in to Reply"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:639 ../includes/answers.php:117
+msgid "Please briefly explain why you feel this answer should be reported ."
+msgstr "Обгрунтуйте свою скаргу на цю відповідь."
+
+#: ../admin/functions/main_functions.php:644 ../includes/answers.php:122
+#: ../question.php:123 ../single-question.php:167
+msgid "Cancel"
+msgstr "Відміна"
+
+#: ../admin/functions/main_functions.php:656
+#: ../admin/functions/register_post.php:298
+#: ../admin/functions/register_post.php:306 ../functions/shortcode_ask.php:314
+#: ../functions/shortcode_ask.php:738 ../functions/shortcode_ask.php:884
+#: ../question-comments.php:140 ../single-question.php:277
+#: ../single-question.php:284 ../single.php:101
+msgid "Attachment"
+msgstr "Додаток"
+
+#: ../admin/functions/main_functions.php:666
+#: ../admin/functions/register_post.php:1518 ../functions.php:815
+msgid "Best answer"
+msgstr "Найкраща відповідь"
+
+#: ../admin/functions/main_functions.php:669 ../functions.php:814
+msgid "Cancel the best answer"
+msgstr "Не відзначати відповідь"
+
+#: ../admin/functions/main_functions.php:673 ../functions.php:813
+msgid "Select as best answer"
+msgstr "Відзначити відповідь як найкращу"
+
+#: ../admin/functions/main_functions.php:706
+msgid "<i class=\"icon-angle-left\"></i>"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:707
+msgid "<i class=\"icon-angle-right\"></i>"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:833
+msgid "<span class=\"crumbs-span\">/</span>"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:834
+msgid "Home"
+msgstr "Головна"
+
+#: ../admin/functions/main_functions.php:863
+#: ../admin/functions/main_functions.php:990 ../header.php:922 ../search.php:13
+#: ../template-search.php:13
+msgid "Search"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:894
+msgid "Daily Archives : "
+msgstr "Архіви за день:"
+
+#: ../admin/functions/main_functions.php:896
+msgid "Monthly Archives : "
+msgstr "Архіви за місяць:"
+
+#: ../admin/functions/main_functions.php:898
+msgid "Yearly Archives : "
+msgstr "Архіви за рік:"
+
+#: ../admin/functions/main_functions.php:926
+#: ../admin/functions/main_functions.php:1048
+msgid "Error 404"
+msgstr "Помилка 404"
+
+#: ../admin/functions/main_functions.php:962
+#: ../admin/functions/main_functions.php:1085
+msgid "Error 404 "
+msgstr "Помилка 404"
+
+#: ../admin/functions/main_functions.php:975
+#: ../admin/functions/main_functions.php:977
+#: ../admin/functions/main_functions.php:979
+msgid "Archives for "
+msgstr ""
+
+#: ../admin/functions/main_functions.php:981
+msgid "Archives by: "
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1069
+msgid "Search results for "
+msgstr "Результати пошуку для"
+
+#: ../admin/functions/main_functions.php:1071
+msgid "Posts tagged "
+msgstr "Теги публікацй"
+
+#: ../admin/functions/main_functions.php:1089
+msgid "Page"
+msgstr "Сторінка"
+
+#: ../admin/functions/main_functions.php:1102
+#: ../functions/shortcode_ask.php:1164 ../functions/shortcode_ask.php:1177
+msgid "Register"
+msgstr "Зареєструватись"
+
+#: ../admin/functions/main_functions.php:1103
+#: ../admin/functions/main_functions.php:1122
+#: ../admin/functions/main_functions.php:1134 ../comments.php:45
+#: ../question-comments.php:124 ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "Назва"
+
+#: ../admin/functions/main_functions.php:1104
+msgid "ID"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1105
+#: ../admin/functions/main_functions.php:3045
+#: ../admin/functions/register_post.php:16
+#: ../admin/functions/register_post.php:247
+#: ../admin/functions/register_post.php:1456
+#: ../admin/widgets/questions_categories.php:45 ../admin/widgets/stats.php:45
+#: ../author.php:17 ../functions/shortcode_ask.php:1029
+#: ../includes/author-head.php:313 ../includes/categories-results.php:19
+msgid "Questions"
+msgstr "Запитання"
+
+#: ../admin/functions/main_functions.php:1106
+#: ../admin/functions/main_functions.php:3047
+#: ../admin/functions/register_post.php:120 ../admin/widgets/stats.php:46
+#: ../author.php:23 ../functions/functions_ask.php:2598
+#: ../functions/shortcode_ask.php:1043 ../includes/author-head.php:314
+#: ../question-comments.php:15 ../question.php:157 ../single-question.php:365
+msgid "Answers"
+msgstr "Відповіді"
+
+#: ../admin/functions/main_functions.php:1107 ../admin/widgets/stats.php:47
+#: ../functions/shortcode_ask.php:1046 ../includes/author-head.php:329
+msgid "Best Answers"
+msgstr "Найкращі відповіді"
+
+#: ../admin/functions/main_functions.php:1108
+#: ../admin/functions/main_functions.php:3040
+#: ../admin/widgets/highest_points.php:58 ../functions/shortcode_ask.php:1055
+#: ../includes/author-head.php:324 ../template-badges.php:12
+#: ../template-badges.php:31
+msgid "Points"
+msgstr "балів"
+
+#: ../admin/functions/main_functions.php:1109
+#: ../admin/functions/main_functions.php:3051
+#: ../functions/shortcode_ask.php:1066 ../includes/author-head.php:327
+#: ../includes/categories-results.php:17
+msgid "Posts"
+msgstr "Публікації"
+
+#: ../admin/functions/main_functions.php:1110
+#: ../admin/functions/main_functions.php:3049
+#: ../admin/functions/register_post.php:1545 ../admin/widgets/tabs.php:38
+#: ../attachment.php:29 ../comments.php:14 ../functions/functions_ask.php:2597
+#: ../functions/shortcode_ask.php:1069 ../includes/author-head.php:328
+#: ../page.php:36 ../post.php:97 ../single.php:92 ../template-home.php:305
+msgid "Comments"
+msgstr "коментарів"
+
+#: ../admin/functions/main_functions.php:1121
+#: ../admin/functions/main_functions.php:1133 ../admin/widgets/tabs.php:32
+msgid "Popular"
+msgstr "Популярні"
+
+#: ../admin/functions/main_functions.php:1195
+msgid "Type to find..."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1259
+#: ../admin/functions/main_functions.php:1267
+msgid "Your avatar"
+msgstr "Ваше зображення"
+
+#: ../admin/functions/main_functions.php:1274
+#: ../admin/functions/register_post.php:1461
+#: ../functions/shortcode_ask.php:1338 ../functions/shortcode_ask.php:1867
+#: ../includes/author-head.php:166
+msgid "Country"
+msgstr "Країна"
+
+#: ../admin/functions/main_functions.php:1277
+#: ../functions/shortcode_ask.php:1341 ../functions/shortcode_ask.php:1870
+#: ../woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1284
+#: ../functions/shortcode_ask.php:1350 ../functions/shortcode_ask.php:1879
+#: ../includes/author-head.php:169
+#: ../woocommerce/cart/shipping-calculator.php:70
+msgid "City"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1290
+#: ../admin/functions/register_post.php:1464
+#: ../functions/shortcode_ask.php:1356 ../functions/shortcode_ask.php:1885
+#: ../includes/author-head.php:172
+msgid "Age"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1296
+#: ../admin/functions/register_post.php:1458
+#: ../functions/shortcode_ask.php:1362 ../functions/shortcode_ask.php:1845
+#: ../includes/author-head.php:162
+msgid "Phone"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1305
+#: ../functions/shortcode_ask.php:1368 ../functions/shortcode_ask.php:1891
+#: ../includes/author-head.php:175
+msgid "Sex"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1308
+#: ../functions/shortcode_ask.php:1370 ../functions/shortcode_ask.php:1893
+#: ../includes/author-head.php:175
+msgid "Male"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1311
+#: ../functions/shortcode_ask.php:1374 ../functions/shortcode_ask.php:1895
+#: ../includes/author-head.php:175
+msgid "Female"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1315
+#: ../functions/shortcode_ask.php:1828
+msgid "Follow-up email"
+msgstr "Надсилати email"
+
+#: ../admin/functions/main_functions.php:1324
+#, fuzzy
+#| msgid "Search in tags"
+msgid "Received messages?"
+msgstr "Шукати в тегах"
+
+#: ../admin/functions/main_functions.php:1333
+#, fuzzy
+#| msgid "All tags"
+msgid "block messages?"
+msgstr "Всі теги"
+
+#: ../admin/functions/main_functions.php:1340
+msgid "Show the points, favorite question, followed question, authors i follow, followers, question follow, answer follow, post follow and comment follow"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1344
+msgid "Show this pages only for me or any one?"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1361
+msgid "Received email when any one add a new question"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1365
+msgid "Received email?"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1374
+msgid "Add or remove points for the user"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1377
+msgid "Add or remove points"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1381
+msgid "Add"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1382
+#: ../admin/includes/class-options-media-uploader.php:67
+#: ../admin/includes/class-options-media-uploader.php:114
+#: ../admin/meta-box/inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "Видалити"
+
+#: ../admin/functions/main_functions.php:1385
+msgid "The points"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1387
+msgid "The reason"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1394
+msgid "Check if you need this user choose or remove the best answer"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1398
+msgid "Select user?"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1406
+msgid "Social Networking"
+msgstr "Соціальні мережі"
+
+#: ../admin/functions/main_functions.php:1409
+msgid "Google +"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1415
+#: ../admin/functions/main_functions.php:3071 ../footer.php:167
+#: ../functions/shortcode_ask.php:958 ../functions/shortcode_ask.php:1933
+#: ../header.php:469 ../header.php:580 ../includes/author-head.php:250
+#: ../single-question.php:428 ../single-question.php:619 ../single.php:141
+#: ../single.php:331 ../template-contact_us.php:71 ../template-followers.php:74
+#: ../template-i_follow.php:74
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1421
+#: ../admin/functions/main_functions.php:3062 ../footer.php:170
+#: ../functions/shortcode_ask.php:949 ../functions/shortcode_ask.php:1929
+#: ../header.php:472 ../header.php:583 ../includes/author-head.php:241
+#: ../single-question.php:418 ../single-question.php:610 ../single.php:131
+#: ../single.php:322 ../template-contact_us.php:62 ../template-followers.php:65
+#: ../template-i_follow.php:65
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1427
+#: ../admin/functions/main_functions.php:3098 ../footer.php:176
+#: ../functions/shortcode_ask.php:967 ../functions/shortcode_ask.php:1937
+#: ../header.php:478 ../header.php:589 ../template-contact_us.php:80
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1433
+msgid "linkedin"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1439
+#: ../admin/functions/main_functions.php:3107
+#: ../functions/shortcode_ask.php:1953 ../includes/author-head.php:277
+#: ../single-question.php:459 ../single-question.php:646 ../single.php:172
+#: ../single.php:358 ../template-contact_us.php:134
+#: ../template-followers.php:101 ../template-i_follow.php:101
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1445
+#: ../admin/functions/main_functions.php:3116
+#: ../functions/shortcode_ask.php:1949 ../includes/author-head.php:286
+#: ../single-question.php:655 ../single.php:367 ../template-contact_us.php:116
+#: ../template-followers.php:110 ../template-i_follow.php:110
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/functions/main_functions.php:1687
+msgid "Afghanistan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1688
+msgid "&#197;land Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1689
+msgid "Albania"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1690
+msgid "Algeria"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1691
+msgid "Andorra"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1692
+msgid "Angola"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1693
+msgid "Anguilla"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1694
+msgid "Antarctica"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1695
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1696
+msgid "Argentina"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1697
+msgid "Armenia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1698
+msgid "Aruba"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1699
+msgid "Australia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1700
+msgid "Austria"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1701
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1702
+msgid "Bahamas"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1703
+msgid "Bahrain"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1704
+msgid "Bangladesh"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1705
+msgid "Barbados"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1706
+msgid "Belarus"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1707
+msgid "Belgium"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1708
+msgid "Belau"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1709
+msgid "Belize"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1710
+msgid "Benin"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1711
+msgid "Bermuda"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1712
+msgid "Bhutan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1713
+msgid "Bolivia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1714
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1715
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1716
+msgid "Botswana"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1717
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1718
+msgid "Brazil"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1719
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1720
+msgid "British Virgin Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1721
+msgid "Brunei"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1722
+msgid "Bulgaria"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1723
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1724
+msgid "Burundi"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1725
+msgid "Cambodia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1726
+msgid "Cameroon"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1727
+msgid "Canada"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1728
+msgid "Cape Verde"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1729
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1730
+msgid "Central African Republic"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1731
+msgid "Chad"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1732
+msgid "Chile"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1733
+msgid "China"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1734
+msgid "Christmas Island"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1735
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1736
+msgid "Colombia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1737
+msgid "Comoros"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1738
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1739
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1740
+msgid "Cook Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1741
+msgid "Costa Rica"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1742
+msgid "Croatia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1743
+msgid "Cuba"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1744
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1745
+msgid "Cyprus"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1746
+msgid "Czech Republic"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1747
+msgid "Denmark"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1748
+msgid "Djibouti"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1749
+msgid "Dominica"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1750
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1751
+msgid "Ecuador"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1752
+msgid "Egypt"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1753
+msgid "El Salvador"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1754
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1755
+msgid "Eritrea"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1756
+msgid "Estonia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1757
+msgid "Ethiopia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1758
+msgid "Falkland Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1759
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1760
+msgid "Fiji"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1761
+msgid "Finland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1762
+msgid "France"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1763
+msgid "French Guiana"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1764
+msgid "French Polynesia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1765
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1766
+msgid "Gabon"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1767
+msgid "Gambia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1768
+msgid "Georgia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1769
+msgid "Germany"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1770
+msgid "Ghana"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1771
+msgid "Gibraltar"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1772
+msgid "Greece"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1773
+msgid "Greenland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1774
+msgid "Grenada"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1775
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1776
+msgid "Guatemala"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1777
+msgid "Guernsey"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1778
+msgid "Guinea"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1779
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1780
+msgid "Guyana"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1781
+msgid "Haiti"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1782
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1783
+msgid "Honduras"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1784
+msgid "Hong Kong"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1785
+msgid "Hungary"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1786
+msgid "Iceland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1787
+msgid "India"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1788
+msgid "Indonesia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1789
+msgid "Iran"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1790
+msgid "Iraq"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1791
+msgid "Republic of Ireland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1792
+msgid "Isle of Man"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1793
+msgid "Israel"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1794
+msgid "Italy"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1795
+msgid "Ivory Coast"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1796
+msgid "Jamaica"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1797
+msgid "Japan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1798
+msgid "Jersey"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1799
+msgid "Jordan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1800
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1801
+msgid "Kenya"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1802
+msgid "Kiribati"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1803
+msgid "Kuwait"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1804
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1805
+msgid "Laos"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1806
+msgid "Latvia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1807
+msgid "Lebanon"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1808
+msgid "Lesotho"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1809
+msgid "Liberia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1810
+msgid "Libya"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1811
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1812
+msgid "Lithuania"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1813
+msgid "Luxembourg"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1814
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1815
+msgid "Macedonia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1816
+msgid "Madagascar"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1817
+msgid "Malawi"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1818
+msgid "Malaysia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1819
+msgid "Maldives"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1820
+msgid "Mali"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1821
+msgid "Malta"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1822
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1823
+msgid "Martinique"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1824
+msgid "Mauritania"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1825
+msgid "Mauritius"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1826
+msgid "Mayotte"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1827
+msgid "Mexico"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1828
+msgid "Micronesia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1829
+msgid "Moldova"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1830
+msgid "Monaco"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1831
+msgid "Mongolia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1832
+msgid "Montenegro"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1833
+msgid "Montserrat"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1834
+msgid "Morocco"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1835
+msgid "Mozambique"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1836
+msgid "Myanmar"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1837
+msgid "Namibia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1838
+msgid "Nauru"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1839
+msgid "Nepal"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1840
+msgid "Netherlands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1841
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1842
+msgid "New Caledonia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1843
+msgid "New Zealand"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1844
+msgid "Nicaragua"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1845
+msgid "Niger"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1846
+msgid "Nigeria"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1847
+msgid "Niue"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1848
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1849
+msgid "North Korea"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1850
+msgid "Norway"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1851
+msgid "Oman"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1852
+msgid "Pakistan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1853
+msgid "Palestinian Territory"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1854
+msgid "Panama"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1855
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1856
+msgid "Paraguay"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1857
+msgid "Peru"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1858
+msgid "Philippines"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1859
+msgid "Pitcairn"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1860
+msgid "Poland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1861
+msgid "Portugal"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1862
+msgid "Qatar"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1863
+msgid "Reunion"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1864
+msgid "Romania"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1865
+msgid "Russia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1866
+msgid "Rwanda"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1867
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1868
+msgid "Saint Helena"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1869
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1870
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1871
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1872
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1873
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1874
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1875
+msgid "San Marino"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1876
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1877
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1878
+msgid "Senegal"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1879
+msgid "Serbia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1880
+msgid "Seychelles"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1881
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1882
+msgid "Singapore"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1883
+msgid "Slovakia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1884
+msgid "Slovenia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1885
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1886
+msgid "Somalia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1887
+msgid "South Africa"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1888
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1889
+msgid "South Korea"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1890
+msgid "South Sudan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1891
+msgid "Spain"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1892
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1893
+msgid "Sudan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1894
+msgid "Suriname"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1895
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1896
+msgid "Swaziland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1897
+msgid "Sweden"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1898
+msgid "Switzerland"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1899
+msgid "Syria"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1900
+msgid "Taiwan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1901
+msgid "Tajikistan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1902
+msgid "Tanzania"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1903
+msgid "Thailand"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1904
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1905
+msgid "Togo"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1906
+msgid "Tokelau"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1907
+msgid "Tonga"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1908
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1909
+msgid "Tunisia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1910
+msgid "Turkey"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1911
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1912
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1913
+msgid "Tuvalu"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1914
+msgid "Uganda"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1915
+msgid "Ukraine"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1916
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1917
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1918
+msgid "United States (US)"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1919
+msgid "Uruguay"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1920
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1921
+msgid "Vanuatu"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1922
+msgid "Vatican"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1923
+msgid "Venezuela"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1924
+msgid "Vietnam"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1925
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1926
+msgid "Western Sahara"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1927
+msgid "Western Samoa"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1928
+msgid "Yemen"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1929
+msgid "Zambia"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1930
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2878 ../template-activity_log.php:64
+#: ../template-notifications.php:65
+msgid "has"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2880 ../template-activity_log.php:66
+#: ../template-activity_log.php:155 ../template-notifications.php:67
+msgid "Delete user"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2898 ../template-notifications.php:84
+#, fuzzy
+#| msgid "There are no questions ."
+msgid "been asked you a question."
+msgstr "Зараз запитань немає."
+
+#: ../admin/functions/main_functions.php:2900 ../template-notifications.php:86
+msgid "poll at your question"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2902 ../template-notifications.php:88
+#: ../template-user_points.php:94
+msgid "Gift of the site."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2904 ../template-notifications.php:90
+#: ../template-user_points.php:98
+msgid "The administrator add points for you."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2906 ../template-notifications.php:92
+#: ../template-user_points.php:100
+msgid "The administrator remove points from you."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2908 ../template-notifications.php:94
+msgid "vote up your question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2910 ../template-notifications.php:96
+msgid "vote down your question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2912 ../template-notifications.php:98
+msgid "vote up you answer."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2914 ../template-notifications.php:100
+msgid "vote down you answer."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2916 ../template-notifications.php:102
+msgid "follow you."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2918 ../template-notifications.php:104
+msgid "unfollow you."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2920 ../template-notifications.php:106
+#: ../template-user_points.php:102
+msgid "Your point back because the best answer selected."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2922 ../template-notifications.php:108
+msgid "choose your answer best answer."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2924 ../template-notifications.php:110
+#: ../template-user_points.php:104
+msgid "Your point removed because the best answer removed."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2926 ../template-notifications.php:112
+msgid "cancel your answer best answer."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2928 ../template-notifications.php:114
+msgid "answer on your question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2930 ../template-notifications.php:116
+msgid "answer on your question you follow."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2932 ../template-notifications.php:118
+msgid "add a new question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2934 ../template-notifications.php:120
+msgid "add your question at favorites."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2936 ../template-notifications.php:122
+msgid "remove your question from favorites."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2938 ../template-notifications.php:124
+msgid "follow your question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2940 ../template-notifications.php:126
+msgid "unfollow your question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2942 ../template-notifications.php:128
+msgid "The administrator add your answer."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2944 ../template-notifications.php:130
+msgid "The administrator add your comment."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2946 ../template-notifications.php:132
+msgid "The administrator add your question."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2948 ../template-notifications.php:134
+msgid "The administrator add your post."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2950 ../template-notifications.php:136
+msgid "send a message for you."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2952 ../template-notifications.php:138
+#, fuzzy
+#| msgid "Please enter your name."
+msgid "seen your message."
+msgstr "Вкажіть Ваше ім'я"
+
+#: ../admin/functions/main_functions.php:2954
+#: ../admin/functions/main_functions.php:2956 ../template-notifications.php:140
+#: ../template-notifications.php:142
+#, php-format
+msgid "The administrator %s your %s."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2954
+#: ../admin/functions/main_functions.php:2962
+#: ../admin/functions/main_functions.php:2976 ../template-notifications.php:140
+#: ../template-notifications.php:148 ../template-notifications.php:162
+msgid "answer"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2954
+#: ../admin/functions/main_functions.php:2962
+#: ../admin/functions/main_functions.php:2976 ../template-notifications.php:140
+#: ../template-notifications.php:148 ../template-notifications.php:162
+msgid "comment"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2956
+#: ../admin/functions/main_functions.php:2960 ../template-notifications.php:142
+#: ../template-notifications.php:146
+msgid "question"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2956
+#: ../admin/functions/main_functions.php:2960 ../template-notifications.php:142
+#: ../template-notifications.php:146
+msgid "post"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2958 ../template-notifications.php:144
+#, php-format
+msgid "The administrator reason : %s."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2960
+#: ../admin/functions/main_functions.php:2962 ../template-notifications.php:146
+#: ../template-notifications.php:148
+#, php-format
+msgid "The administrator delete your %s."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2969 ../template-activity_log.php:168
+#: ../template-notifications.php:155
+msgid "( Spam )"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2971
+#: ../admin/functions/main_functions.php:2981 ../template-activity_log.php:170
+#: ../template-activity_log.php:177 ../template-notifications.php:157
+#: ../template-notifications.php:167
+msgid "( Trashed )"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2973
+#: ../admin/functions/main_functions.php:2983 ../template-activity_log.php:172
+#: ../template-activity_log.php:179 ../template-notifications.php:159
+#: ../template-notifications.php:169
+msgid "( Deleted )"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2992
+msgid "Show all notifications."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:2993 ../template-notifications.php:181
+msgid "There are no notifications yet."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:3042
+#, fuzzy
+#| msgid "Best answer"
+msgid "Best answers"
+msgstr "Найкраща відповідь"
+
+#: ../admin/functions/main_functions.php:3059 ../includes/author-head.php:238
+#: ../single-question.php:607 ../single.php:319 ../template-followers.php:62
+#: ../template-i_follow.php:62
+msgid "Follow Me"
+msgstr "Додати"
+
+#: ../admin/functions/main_functions.php:3080 ../footer.php:185
+#: ../functions/shortcode_ask.php:976 ../functions/shortcode_ask.php:1941
+#: ../header.php:487 ../header.php:598 ../includes/author-head.php:259
+#: ../single-question.php:628 ../single.php:340 ../template-contact_us.php:89
+#: ../template-followers.php:83 ../template-i_follow.php:83
+msgid "Linkedin"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:3089 ../footer.php:173
+#: ../functions/shortcode_ask.php:985 ../functions/shortcode_ask.php:1945
+#: ../header.php:475 ../header.php:586 ../includes/author-head.php:268
+#: ../single-question.php:438 ../single-question.php:637 ../single.php:151
+#: ../single.php:349 ../template-contact_us.php:98 ../template-followers.php:92
+#: ../template-i_follow.php:92
+msgid "Google plus"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:3125 ../admin/widgets/subscribe.php:31
+#: ../functions/shortcode_ask.php:994 ../includes/author-head.php:295
+#: ../single-question.php:469 ../single-question.php:664 ../single.php:182
+#: ../single.php:376 ../template-followers.php:119 ../template-i_follow.php:119
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr "Email"
+
+#: ../admin/functions/main_functions.php:3195 ../includes/categories.php:66
+#: ../includes/comments.php:24 ../includes/tags.php:67
+#: ../includes/users.php:130
+msgid "View all results."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:3199 ../includes/categories.php:71
+#: ../includes/comments.php:29 ../includes/tags.php:72
+#: ../includes/users.php:108 ../includes/users.php:135
+#, fuzzy
+#| msgid "No questions found."
+msgid "No results found."
+msgstr "Не знайдено запитань."
+
+#: ../admin/functions/nav_menu.php:7
+msgid "You can use WP menu builder to build menus"
+msgstr "Використовуйте вордпрес для налаштування меню"
+
+#: ../admin/functions/page_builder.php:8 ../admin/functions/page_builder.php:9
+msgid "Page slideshow"
+msgstr "Слайдшоу сторінки"
+
+#: ../admin/functions/page_builder.php:10
+#: ../admin/functions/page_builder.php:11
+msgid "Sort the sections"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:12
+msgid "Delete post"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:13
+msgid "Delete question"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:95
+msgid "+ Add new slide"
+msgstr "Додати новий слайд"
+
+#: ../admin/functions/register_post.php:115
+#: ../admin/functions/register_post.php:1541 ../functions/messages.php:61
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../admin/functions/register_post.php:116
+msgid "Type"
+msgstr "Тип"
+
+#: ../admin/functions/register_post.php:117
+#: ../admin/functions/register_post.php:1542 ../functions/messages.php:63
+msgid "Author"
+msgstr ""
+
+#: ../admin/functions/register_post.php:118
+#: ../admin/functions/register_post.php:377 ../functions/shortcode_ask.php:254
+#: ../functions/shortcode_ask.php:504 ../functions/shortcode_ask.php:731
+#: ../functions/shortcode_ask.php:862
+msgid "Category"
+msgstr "Категорії"
+
+#: ../admin/functions/register_post.php:119
+#: ../admin/functions/register_post.php:1544 ../functions/shortcode_ask.php:262
+#: ../functions/shortcode_ask.php:512 ../functions/shortcode_ask.php:721
+#: ../functions/shortcode_ask.php:852
+msgid "Tags"
+msgstr "Теги"
+
+#: ../admin/functions/register_post.php:121
+#: ../admin/functions/register_post.php:1546 ../functions/messages.php:65
+msgid "Date"
+msgstr "Дата"
+
+#: ../admin/functions/register_post.php:133
+#: ../admin/functions/register_post.php:216 ../functions/shortcode_ask.php:270
+#: ../functions/shortcode_ask.php:520 ../question.php:69
+#: ../single-question.php:143 ../template-asked_question.php:77
+#: ../template-question_follow.php:44
+#: ../template-user_favorite_questions.php:50
+#: ../template-user_followed_questions.php:42
+#: ../template-user_paid_question.php:52 ../template-user_polls.php:56
+#: ../template-user_question.php:55
+msgid "Poll"
+msgstr "Опитування"
+
+#: ../admin/functions/register_post.php:135
+#: ../admin/functions/register_post.php:215
+#: ../admin/widgets/questions_categories.php:43
+#: ../includes/categories-results.php:13 ../question.php:71
+#: ../single-question.php:145 ../template-asked_question.php:79
+#: ../template-question_follow.php:46
+#: ../template-user_favorite_questions.php:52
+#: ../template-user_followed_questions.php:44
+#: ../template-user_paid_question.php:54 ../template-user_polls.php:58
+#: ../template-user_question.php:57
+msgid "Question"
+msgstr "Запитання"
+
+#: ../admin/functions/register_post.php:151
+msgid "No category"
+msgstr ""
+
+#: ../admin/functions/register_post.php:163
+msgid "No tags"
+msgstr ""
+
+#: ../admin/functions/register_post.php:180
+#, php-format
+msgid "Updated. <a href=\"%s\">View question</a>"
+msgstr "Оновлено. <a href=\"%s\">Переглянути запитання</a>"
+
+#: ../admin/functions/register_post.php:298
+#: ../admin/functions/register_post.php:306
+#: ../admin/meta-box/inc/fields/autocomplete.php:14
+#: ../admin/meta-box/inc/fields/autocomplete.php:77
+#: ../admin/meta-box/inc/fields/autocomplete.php:94 ../single-question.php:300
+#: ../template-messages.php:85
+msgid "Delete"
+msgstr ""
+
+#: ../admin/functions/register_post.php:319
+msgid "This question is a poll?"
+msgstr "Це запитання має варіанти відповідей?"
+
+#: ../admin/functions/register_post.php:327
+msgid "Add a new option to poll"
+msgstr "Додати новий варіант відповіді"
+
+#: ../admin/functions/register_post.php:330
+msgid "Poll Options"
+msgstr "Налаштування "
+
+#: ../admin/functions/register_post.php:392
+msgid "Choose from here the question category."
+msgstr "Оберіть категорію Вашого запитання."
+
+#: ../admin/functions/register_post.php:396 ../functions/shortcode_ask.php:347
+#: ../functions/shortcode_ask.php:596
+msgid "Video description"
+msgstr "Відео опис"
+
+#: ../admin/functions/register_post.php:403 ../functions/shortcode_ask.php:349
+#: ../functions/shortcode_ask.php:598
+msgid "Do you need a video to description the problem better ?"
+msgstr "Задати запитання за допомогою відео"
+
+#: ../admin/functions/register_post.php:408 ../functions/shortcode_ask.php:354
+#: ../functions/shortcode_ask.php:603
+msgid "Video type"
+msgstr "Тип відео"
+
+#: ../admin/functions/register_post.php:418
+msgid "Choose from here the video type."
+msgstr ""
+
+#: ../admin/functions/register_post.php:422 ../functions/shortcode_ask.php:366
+#: ../functions/shortcode_ask.php:615
+msgid "Video ID"
+msgstr "Video ID"
+
+#: ../admin/functions/register_post.php:426
+msgid "Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs EX : 'sdUUx5FdySs'."
+msgstr ""
+
+#: ../admin/functions/register_post.php:432
+msgid "Notified by e-mail"
+msgstr "Повідомлено електронною поштою"
+
+#: ../admin/functions/register_post.php:439 ../functions/shortcode_ask.php:379
+#: ../functions/shortcode_ask.php:629
+#, fuzzy
+#| msgid "Notified by e-mail at incoming answers ."
+msgid "Notified by e-mail at incoming answers."
+msgstr "Надсилати відповіді на пошту."
+
+#: ../admin/functions/register_post.php:443 ../functions/shortcode_ask.php:387
+#: ../functions/shortcode_ask.php:637
+#, fuzzy
+#| msgid "Edit question"
+msgid "Private question"
+msgstr "Редагувати запитання"
+
+#: ../admin/functions/register_post.php:450 ../functions/shortcode_ask.php:389
+#: ../functions/shortcode_ask.php:639
+#, fuzzy
+#| msgid "Sorry it a private question ."
+msgid "Active this question as a private question."
+msgstr "Перепрошуємо, ця відповідь має статус приватної."
+
+#: ../admin/functions/register_post.php:1500
+msgid "Answer/Comment"
+msgstr ""
+
+#: ../admin/functions/register_post.php:1501
+msgid "Best answer?"
+msgstr ""
+
+#: ../admin/functions/register_post.php:1510 ../question-comments.php:15
+#: ../question.php:157 ../single-question.php:365
+#: ../template-asked_question.php:102 ../template-question_follow.php:62
+#: ../template-user_favorite_questions.php:68
+#: ../template-user_followed_questions.php:60
+#: ../template-user_paid_question.php:70 ../template-user_polls.php:74
+#: ../template-user_question.php:73
+msgid "Answer"
+msgstr "Відповідь"
+
+#: ../admin/functions/register_post.php:1512 ../comments.php:14
+#: ../comments.php:90 ../question-comments.php:181
+#: ../template-edit_comment.php:34
+msgid "Comment"
+msgstr "Коментар"
+
+#: ../admin/functions/register_post.php:1520
+msgid "Not best answer"
+msgstr ""
+
+#: ../admin/functions/register_post.php:1529
+#, fuzzy
+#| msgid "Edit the question"
+msgid "Stick this question"
+msgstr "Редагувати запитання"
+
+#: ../admin/functions/register_post.php:1535 ../question.php:60
+msgid "Sticky"
+msgstr ""
+
+#: ../admin/functions/register_post.php:1543
+msgid "Categories"
+msgstr "Категорії"
+
+#: ../admin/functions/widget_functions.php:30
+msgid "The first footer widget area"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:37
+msgid "The Second footer widget area"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:44
+msgid "The Third footer widget area"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:51
+msgid "The Fourth footer widget area"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:117
+msgid "If you press will delete report !"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:118
+msgid "If you press will delete the attachemtn !"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:119
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Натисніть ОК для скидання. Налаштування теми буде втрачено!"
+
+#: ../admin/includes/class-options-framework-admin.php:120
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:188
+msgid "Saving"
+msgstr "Зберігаю"
+
+#: ../admin/includes/class-options-framework-admin.php:189
+msgid "Reseting Options"
+msgstr "Скидую налаштування"
+
+#: ../admin/includes/class-options-framework-admin.php:225
+msgid "Default options restored."
+msgstr "Відновлено стандартні налаштування."
+
+#: ../admin/includes/class-options-framework-admin.php:279
+msgid "Options saved."
+msgstr "Опції збережено."
+
+#: ../admin/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Жодного файлу не вибрано"
+
+#: ../admin/includes/class-options-media-uploader.php:65
+#: ../admin/includes/class-options-media-uploader.php:113
+msgid "Upload"
+msgstr "Завантажити"
+
+#: ../admin/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../admin/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Переглянути файл"
+
+#: ../admin/includes/class-options-sanitization.php:254
+msgid "No Repeat"
+msgstr "Не повторювати"
+
+#: ../admin/includes/class-options-sanitization.php:255
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:256
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:257
+msgid "Repeat All"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:270
+msgid "Top Left"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:271
+msgid "Top Center"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:272
+msgid "Top Right"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:273
+msgid "Middle Left"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:274
+msgid "Middle Center"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:275
+msgid "Middle Right"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:276
+msgid "Bottom Left"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:277
+msgid "Bottom Center"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:278
+msgid "Bottom Right"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:291
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:292
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:366
+msgid "Normal"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:367
+msgid "Italic"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:368
+msgid "Bold"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:369
+msgid "Bold Italic"
+msgstr ""
+
+#: ../admin/meta-box/inc/core.php:40
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/meta-box/inc/core.php:41
+msgid "Extensions"
+msgstr ""
+
+#: ../admin/meta-box/inc/field.php:200
+msgid "+ Add more"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr "Клікніть сюди"
+
+#: ../admin/meta-box/inc/fields/checkbox.php:85
+msgid "Yes"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/checkbox.php:85 ../comments.php:14
+#: ../question-comments.php:15
+msgid "No"
+msgstr "Ні"
+
+#: ../admin/meta-box/inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "Обрати файл"
+
+#: ../admin/meta-box/inc/fields/file-input.php:41
+#: ../admin/meta-box/inc/fields/select.php:91
+msgid "Select"
+msgstr "Обрати"
+
+#: ../admin/meta-box/inc/fields/file.php:15
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Ви можете завантажити максимум %d файл"
+
+#: ../admin/meta-box/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Ви можете завантажити максимум %d файлів"
+
+#: ../admin/meta-box/inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "Помилка: Не можу видалити файл"
+
+#: ../admin/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "Знайти Адресу"
+
+#: ../admin/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "Перегляд"
+
+#: ../admin/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/post.php:38
+#: ../admin/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "Обрати %s"
+
+#: ../admin/meta-box/inc/fields/questions-categories.php:35
+#: ../admin/meta-box/inc/fields/questions-categories.php:49
+#: ../template-home.php:28
+msgid "Show All Categories"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/select.php:91
+msgid "All"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/select.php:91
+msgid "None"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr ""
+
+#: ../admin/meta-box/inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Будь-ласка виправіть наявні помилки та спробуйте знову."
+
+#: ../admin/widgets/ask_question.php:20 ../header.php:411
+msgid "Ask a Question"
+msgstr ""
+
+#: ../admin/widgets/ask_question.php:32
+msgid "Ask question"
+msgstr ""
+
+#: ../admin/widgets/contact.php:30 ../template-contact_us.php:49
+msgid "Address :"
+msgstr "Адреса:"
+
+#: ../admin/widgets/contact.php:31
+msgid "Support :"
+msgstr "Підтримка:"
+
+#: ../admin/widgets/counter.php:38 ../admin/widgets/subscribe.php:36
+msgid "Subscribe"
+msgstr "Підписатись"
+
+#: ../admin/widgets/counter.php:39
+msgid "To RSS Feed"
+msgstr "На стрічку RSS "
+
+#: ../admin/widgets/counter.php:50
+msgid "People like it"
+msgstr "Сподобалось"
+
+#: ../admin/widgets/counter.php:61 ../admin/widgets/counter.php:72
+#: ../functions/shortcode_ask.php:1061 ../includes/author-head.php:332
+msgid "Followers"
+msgstr "Читачі"
+
+#: ../admin/widgets/counter.php:83
+msgid "Subscribers"
+msgstr "Підписано"
+
+#: ../admin/widgets/login.php:49 ../header.php:217 ../header.php:359
+#: ../header.php:516 ../header.php:1122 ../template-login-2.php:15
+#: ../template-login.php:15 ../woocommerce/global/form-login.php:35
+msgid "Login"
+msgstr "Логін"
+
+#: ../admin/widgets/profile_links.php:41
+msgid "Profile"
+msgstr ""
+
+#: ../admin/widgets/questions.php:47 ../admin/widgets/tabs.php:35
+msgid "Recent"
+msgstr "Недавні"
+
+#: ../admin/widgets/questions_categories.php:63
+msgid "Questions Categories"
+msgstr ""
+
+#: ../admin/widgets/signup.php:41 ../functions/shortcode_ask.php:1414
+msgid "Signup"
+msgstr "Зареєструватись"
+
+#: ../admin/widgets/stats.php:48
+msgid "Users"
+msgstr "Користувачі"
+
+#: ../admin/widgets/stats.php:62
+msgid "Stats"
+msgstr "Статистика"
+
+#: ../admin/widgets/twitter.php:54
+#, fuzzy, php-format
+#| msgid "About Us"
+msgid "about %s ago"
+msgstr "Про нас"
+
+#: ../admin/woocommerce/woocommerce.php:98
+msgid "Select options"
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:213
+msgid "&nbsp;Previous product"
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:216
+msgid "Next product&nbsp;"
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:229
+msgid "Share This"
+msgstr ""
+
+#: ../attachment.php:29 ../page.php:36 ../post.php:97 ../single.php:92
+#: ../template-home.php:305
+msgid "0 Comments"
+msgstr "0 коментарів"
+
+#: ../attachment.php:29 ../page.php:36 ../post.php:97 ../single.php:92
+#: ../template-home.php:305
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: ../author.php:11
+msgid "#"
+msgstr "#"
+
+#: ../author.php:12
+msgid "Today"
+msgstr "Сьогодні"
+
+#: ../author.php:13
+msgid "Month"
+msgstr "Місяць"
+
+#: ../author.php:14 ../woocommerce/cart/cart-totals.php:78
+#: ../woocommerce/cart/cart.php:38 ../woocommerce/checkout/review-order.php:18
+msgid "Total"
+msgstr "Усього"
+
+#: ../author.php:29
+msgid "Visitors"
+msgstr "Відвідувачів"
+
+#: ../captcha/captcha.php:5
+msgid "You can only reach this page by posting from the form"
+msgstr ""
+
+#: ../comments.php:3 ../question-comments.php:6
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ця публікація захищена паролем. Уведіть пароль для перегляду коментарів."
+
+#: ../comments.php:14 ../question-comments.php:15
+msgid "1"
+msgstr "1"
+
+#: ../comments.php:14 ../question-comments.php:15
+msgid "%"
+msgstr "%"
+
+#: ../comments.php:29
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: ../comments.php:41 ../question-comments.php:120
+msgid "Logged in as"
+msgstr "Ви увійшли як"
+
+#: ../comments.php:41 ../question-comments.php:120
+msgid "Log out &raquo;"
+msgstr "Вийти &raquo;"
+
+#: ../comments.php:49 ../functions/messages.php:196
+#: ../functions/shortcode_ask.php:238 ../functions/shortcode_ask.php:708
+#: ../functions/shortcode_ask.php:1284 ../functions/shortcode_ask.php:1684
+#: ../functions/shortcode_ask.php:1824 ../question-comments.php:128
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../comments.php:53 ../functions/shortcode_ask.php:1924
+#: ../includes/author-head.php:178 ../question-comments.php:132
+msgid "Website"
+msgstr "Веб-сторінка"
+
+#: ../comments.php:69 ../comments.php:79 ../comments.php:80
+#: ../functions/messages.php:232 ../functions/messages.php:239
+#: ../functions/messages.php:240 ../functions/shortcode_ask.php:402
+#: ../functions/shortcode_ask.php:409 ../functions/shortcode_ask.php:410
+#: ../functions/shortcode_ask.php:775 ../functions/shortcode_ask.php:782
+#: ../functions/shortcode_ask.php:783 ../functions/shortcode_ask.php:1144
+#: ../functions/shortcode_ask.php:1151 ../functions/shortcode_ask.php:1153
+#: ../functions/shortcode_ask.php:1387 ../functions/shortcode_ask.php:1394
+#: ../functions/shortcode_ask.php:1395 ../question-comments.php:160
+#: ../question-comments.php:170 ../question-comments.php:171
+msgid "Captcha"
+msgstr "Захист від спаму"
+
+#: ../comments.php:80 ../functions/messages.php:240
+#: ../functions/shortcode_ask.php:410 ../functions/shortcode_ask.php:783
+#: ../functions/shortcode_ask.php:1153 ../functions/shortcode_ask.php:1395
+#: ../question-comments.php:171
+msgid "Click here to update the captcha"
+msgstr "Натисніть тут для оновлення коду"
+
+#: ../comments.php:81 ../functions/messages.php:241
+#: ../functions/shortcode_ask.php:411 ../functions/shortcode_ask.php:784
+#: ../functions/shortcode_ask.php:1154 ../functions/shortcode_ask.php:1396
+#: ../question-comments.php:172
+msgid "Click on image to update the captcha ."
+msgstr "Натисніть на зображення для оновлення коду"
+
+#: ../comments.php:100 ../question-comments.php:191
+#, fuzzy
+#| msgid "Click here to update the captcha"
+msgid "Click here to cancel reply."
+msgstr "Натисніть тут для оновлення коду"
+
+#: ../comments.php:102
+msgid "Post Comment"
+msgstr "Опублікувати коментар"
+
+#: ../comments.php:108
+#, php-format
+msgid "You must <a href=\"%s\" class=\"login-comments\">login</a> or <a href=\"%s\" class=\"signup\">register</a> to add a new comment ."
+msgstr "Вам слід <a href=\"%s\" class=\"login-comments\">увійти</a> або <a href=\"%s\" class=\"signup\">зареєструватись</a> щоб доавати коментарі ."
+
+#: ../footer.php:179 ../header.php:481 ../header.php:592
+msgid "Skype"
+msgstr ""
+
+#: ../footer.php:182 ../header.php:484 ../header.php:595
+msgid "Flickr"
+msgstr ""
+
+#: ../footer.php:188 ../header.php:490 ../header.php:601
+msgid "Rss"
+msgstr ""
+
+#: ../functions.php:795
+msgid "Go to..."
+msgstr "Йти до..."
+
+#: ../functions.php:796
+msgid "Please fill the required field."
+msgstr "Заповніть необхідні поля."
+
+#: ../functions.php:797 ../functions/shortcode_ask.php:1476
+#: ../functions/shortcode_ask.php:1480
+msgid "The captcha is incorrect, please try again."
+msgstr "Код введено не вірно, спробуйте знову."
+
+#: ../functions.php:801
+msgid "Fill out all the required fields."
+msgstr "Заповніть всі необхідні поля."
+
+#: ../functions.php:802
+msgid "Sorry, you cannot vote your question."
+msgstr ""
+
+#: ../functions.php:803
+msgid "Sorry, you cannot vote on the same question more than once."
+msgstr "Вибачте, Ви не можете віддавати свій голос двічі за одне й те ж запитання."
+
+#: ../functions.php:804
+msgid "Rating is available to members only."
+msgstr "Рейтинг доступний лише для учасників."
+
+#: ../functions.php:805
+msgid "Sorry, you cannot vote your answer."
+msgstr ""
+
+#: ../functions.php:806
+msgid "Sorry, you cannot vote on the same answer more than once."
+msgstr ""
+
+#: ../functions.php:808
+msgid "Are you sure you want to Report?"
+msgstr "Ви впевнені, що хочете поскаржитись?"
+
+#: ../functions.php:809
+msgid "Are you sure you want to delete the question?"
+msgstr ""
+
+#: ../functions.php:810
+msgid "Are you sure you want to delete the post?"
+msgstr ""
+
+#: ../functions.php:811
+#, fuzzy
+#| msgid "Are you sure you want to Report?"
+msgid "Are you sure you want to delete the message?"
+msgstr "Ви впевнені, що хочете поскаржитись?"
+
+#: ../functions.php:812
+msgid "Were reported for the question!"
+msgstr "Надійшла скарга на запитання!"
+
+#: ../functions.php:816 ../single-question.php:117 ../single-question.php:310
+msgid "Follow the question"
+msgstr ""
+
+#: ../functions.php:817 ../single-question.php:115 ../single-question.php:308
+msgid "Unfollow the question"
+msgstr ""
+
+#: ../functions.php:818 ../includes/author-head.php:230
+#: ../single-question.php:310
+msgid "Follow"
+msgstr "Підписатись"
+
+#: ../functions.php:819 ../includes/author-head.php:228
+#: ../single-question.php:308
+msgid "Unfollow"
+msgstr "Відписатись"
+
+#: ../functions.php:821 ../functions/shortcode_ask.php:742
+#: ../functions/shortcode_ask.php:888 ../functions/shortcode_ask.php:1302
+#: ../functions/shortcode_ask.php:1909 ../question-comments.php:144
+msgid "Select file"
+msgstr "Обрати файл"
+
+#: ../functions.php:822 ../functions/shortcode_ask.php:743
+#: ../functions/shortcode_ask.php:889 ../functions/shortcode_ask.php:1303
+#: ../functions/shortcode_ask.php:1910 ../question-comments.php:145
+msgid "Browse"
+msgstr "Перегляд"
+
+#: ../functions.php:824
+#, fuzzy
+#| msgid "All tags"
+msgid "Block Message"
+msgstr "Всі теги"
+
+#: ../functions.php:825
+#, fuzzy
+#| msgid "All tags"
+msgid "Unblock Message"
+msgstr "Всі теги"
+
+#: ../functions/functions_ask.php:404
+msgid "Sorry no mistake,this is not a question asked."
+msgstr ""
+
+#: ../functions/functions_ask.php:407 ../functions/functions_ask.php:409
+msgid "You must enter a numeric value and a value greater than zero."
+msgstr ""
+
+#: ../functions/functions_ask.php:425
+msgid "You bump your question now."
+msgstr ""
+
+#: ../functions/functions_ask.php:431
+msgid "Your points are insufficient."
+msgstr ""
+
+#: ../functions/functions_ask.php:504 ../functions/functions_ask.php:558
+#: ../functions/functions_ask.php:909 ../functions/functions_ask.php:929
+#: ../functions/functions_ask.php:945 ../functions/functions_ask.php:1047
+#: ../functions/functions_ask.php:1068 ../functions/functions_ask.php:1084
+#: ../functions/functions_ask.php:1173 ../functions/functions_ask.php:1826
+#: ../functions/functions_ask.php:1868 ../functions/messages.php:295
+#: ../functions/shortcode_ask.php:1581 ../header.php:1091
+msgid "Hi there"
+msgstr "Привіт"
+
+#: ../functions/functions_ask.php:506
+msgid "Abuse have been reported on the use of the following question"
+msgstr "На вказане запитання було подано скаргу"
+
+#: ../functions/functions_ask.php:513
+msgid "Question report"
+msgstr ""
+
+#: ../functions/functions_ask.php:560
+msgid "Abuse have been reported on the use of the following comment"
+msgstr "На вказаний коментар було подано скаргу"
+
+#: ../functions/functions_ask.php:566
+msgid "Answer report"
+msgstr ""
+
+#: ../functions/functions_ask.php:833 ../functions/functions_ask.php:835
+msgid "<strong>ERROR</strong>: please type a captcha."
+msgstr ""
+
+#: ../functions/functions_ask.php:841 ../functions/functions_ask.php:843
+#: ../functions/functions_ask.php:849 ../functions/functions_ask.php:851
+#: ../functions/functions_ask.php:1324 ../functions/functions_ask.php:1328
+#: ../functions/functions_ask.php:1589 ../functions/functions_ask.php:1593
+#: ../functions/messages.php:380 ../functions/messages.php:384
+msgid "The captcha is incorrect, please try again."
+msgstr "Код введено не вірно, спробуйте знову."
+
+#: ../functions/functions_ask.php:911 ../functions/functions_ask.php:1049
+msgid "We would tell you"
+msgstr "Ми Вам повідомимо"
+
+#: ../functions/functions_ask.php:911 ../functions/functions_ask.php:1049
+msgid "That the new post was added on a common theme by"
+msgstr "Що нова публікація була додана в темі"
+
+#: ../functions/functions_ask.php:911 ../functions/functions_ask.php:1049
+msgid "Entitled"
+msgstr "Під назвою"
+
+#: ../functions/functions_ask.php:913 ../functions/functions_ask.php:1051
+msgid "Click on the link below to go to the topic"
+msgstr "Натисніть на посилання знизу, щоб перейти до теми"
+
+#: ../functions/functions_ask.php:917 ../functions/functions_ask.php:1055
+msgid "There may be more of Posts and we hope the answer to encourage members and get them to help."
+msgstr "Там може бути більше повідомлень і ми сподіваємося, що Ваша відповідь допоможе членам спільноти."
+
+#: ../functions/functions_ask.php:919 ../functions/functions_ask.php:1057
+msgid "Accept from us Sincerely"
+msgstr "Прийміть від нас щиро"
+
+#: ../functions/functions_ask.php:922 ../functions/functions_ask.php:1061
+msgid "Answer to your question"
+msgstr ""
+
+#: ../functions/functions_ask.php:931 ../functions/functions_ask.php:1070
+msgid "There are a new answers on your follow question"
+msgstr ""
+
+#: ../functions/functions_ask.php:986 ../functions/functions_ask.php:998
+#: ../functions/functions_ask.php:1150 ../functions/functions_ask.php:1207
+#: ../functions/functions_ask.php:1216
+msgid "Added been successfully"
+msgstr "Було додано успішно"
+
+#: ../functions/functions_ask.php:986
+msgid "Has been Added successfully."
+msgstr ""
+
+#: ../functions/functions_ask.php:998
+#, fuzzy
+#| msgid "Has been added successfully, the question under review ."
+msgid "Has been Added successfully, The answer under review."
+msgstr "Додано успішно, запитання відправлено на узгодження."
+
+#: ../functions/functions_ask.php:1150 ../functions/functions_ask.php:1913
+#, fuzzy
+#| msgid "Has been added successfully, the question under review ."
+msgid "Has been added successfully, The question under review."
+msgstr "Додано успішно, запитання відправлено на узгодження."
+
+#: ../functions/functions_ask.php:1175 ../functions/functions_ask.php:1870
+msgid "There are a new question"
+msgstr "Є нове запитання"
+
+#: ../functions/functions_ask.php:1194 ../functions/functions_ask.php:1890
+msgid "New question"
+msgstr "Нове запитання"
+
+#: ../functions/functions_ask.php:1207
+#, fuzzy
+#| msgid "Has been added successfully, the question under review ."
+msgid "Has been added successfully, When the user answered will show."
+msgstr "Додано успішно, запитання відправлено на узгодження."
+
+#: ../functions/functions_ask.php:1216 ../functions/functions_ask.php:2141
+#, fuzzy
+#| msgid "Has been added successfully, the question under review ."
+msgid "Has been added successfully, The post under review."
+msgstr "Додано успішно, запитання відправлено на узгодження."
+
+#: ../functions/functions_ask.php:1275 ../functions/functions_ask.php:1277
+#: ../functions/functions_ask.php:1280 ../functions/functions_ask.php:1283
+#: ../functions/functions_ask.php:1286 ../functions/functions_ask.php:1291
+#: ../functions/functions_ask.php:1294 ../functions/functions_ask.php:1295
+#: ../functions/functions_ask.php:1296 ../functions/functions_ask.php:1300
+#: ../functions/functions_ask.php:1301 ../functions/functions_ask.php:1304
+#: ../functions/functions_ask.php:1309 ../functions/functions_ask.php:1311
+#: ../functions/functions_ask.php:1566 ../functions/functions_ask.php:1567
+#: ../functions/functions_ask.php:1568 ../functions/functions_ask.php:1572
+#: ../functions/functions_ask.php:1573 ../functions/functions_ask.php:1575
+#: ../functions/functions_ask.php:1946 ../functions/functions_ask.php:1949
+#: ../functions/functions_ask.php:1951 ../functions/functions_ask.php:1952
+#: ../functions/functions_ask.php:1955 ../functions/functions_ask.php:1959
+#: ../functions/functions_ask.php:1961 ../functions/functions_ask.php:2088
+#: ../functions/functions_ask.php:2091 ../functions/functions_ask.php:2094
+#: ../functions/functions_ask.php:2095 ../functions/functions_ask.php:2170
+#: ../functions/functions_ask.php:2173 ../functions/functions_ask.php:2175
+#: ../functions/functions_ask.php:2178 ../functions/functions_ask.php:2181
+#: ../functions/functions_ask.php:2270 ../functions/functions_ask.php:2271
+#: ../functions/messages.php:347 ../functions/messages.php:349
+#: ../functions/messages.php:352 ../functions/messages.php:356
+#: ../functions/messages.php:357 ../functions/messages.php:358
+#: ../functions/messages.php:362 ../functions/messages.php:366
+#: ../functions/shortcode_ask.php:1660 ../functions/shortcode_ask.php:1737
+msgid "Error"
+msgstr "Помилка"
+
+#: ../functions/functions_ask.php:1275
+msgid "Sorry,you do not have a permission to add a question ."
+msgstr ""
+
+#: ../functions/functions_ask.php:1277 ../functions/functions_ask.php:1280
+#: ../functions/functions_ask.php:1283 ../functions/shortcode_ask.php:41
+#: ../functions/shortcode_ask.php:44 ../functions/shortcode_ask.php:47
+#: ../functions/shortcode_ask.php:463
+msgid "You must login to ask question ."
+msgstr "Щоб поставити запитання, слід увійти."
+
+#: ../functions/functions_ask.php:1286
+msgid "You need to pay first."
+msgstr ""
+
+#: ../functions/functions_ask.php:1291
+#, php-format
+msgid "Sorry do not have the minimum points Please do answer questions,even gaining points (The minimum points = %s)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1294 ../functions/functions_ask.php:1566
+#: ../functions/messages.php:356
+msgid "There are required fields (username)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1295 ../functions/functions_ask.php:1567
+#: ../functions/messages.php:357
+msgid "There are required fields (email)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1296 ../functions/functions_ask.php:1568
+#: ../functions/messages.php:358 ../functions/shortcode_ask.php:1535
+msgid "Please write correctly email."
+msgstr "Прохання ввести вірно електронну пошту."
+
+#: ../functions/functions_ask.php:1300 ../functions/functions_ask.php:1572
+#: ../functions/functions_ask.php:1951 ../functions/functions_ask.php:2175
+#: ../functions/messages.php:362
+msgid "There are required fields (title)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1301 ../functions/functions_ask.php:1573
+#: ../functions/functions_ask.php:1952 ../functions/functions_ask.php:2178
+msgid "There are required fields (category)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1304 ../functions/functions_ask.php:1955
+msgid "Please enter at least two values in poll."
+msgstr "Вкажіть мінімум два вараінти відповіді."
+
+#: ../functions/functions_ask.php:1309 ../functions/functions_ask.php:1959
+#: ../functions/functions_ask.php:2181 ../functions/messages.php:366
+msgid "There are required fields (content)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1311 ../functions/functions_ask.php:1961
+msgid "There are required fields (Video ID)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1320 ../functions/functions_ask.php:1585
+#: ../functions/messages.php:376
+msgid "There are required fields (captcha)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1335
+msgid "There are required fields (Agree of the terms)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1352
+msgid "Error in question."
+msgstr "Помилка в запитанні."
+
+#: ../functions/functions_ask.php:1575
+msgid "There are required fields (details)."
+msgstr ""
+
+#: ../functions/functions_ask.php:1612
+msgid "Error in post."
+msgstr ""
+
+#: ../functions/functions_ask.php:1630 ../functions/functions_ask.php:2216
+msgid "Attachment Error: "
+msgstr "Помилка з додатком:"
+
+#: ../functions/functions_ask.php:1828 ../functions/messages.php:297
+#, fuzzy
+#| msgid "There are a new question"
+msgid "There are a new message"
+msgstr "Є нове запитання"
+
+#: ../functions/functions_ask.php:1836 ../functions/messages.php:305
+msgid "New message"
+msgstr ""
+
+#: ../functions/functions_ask.php:1910 ../functions/functions_ask.php:1913
+#: ../functions/functions_ask.php:2049 ../functions/functions_ask.php:2051
+#: ../functions/functions_ask.php:2138 ../functions/functions_ask.php:2141
+msgid "Edited been successfully"
+msgstr "Відредаговано успішно"
+
+#: ../functions/functions_ask.php:1910 ../functions/functions_ask.php:2049
+#: ../functions/functions_ask.php:2138
+msgid "Has been edited successfully."
+msgstr ""
+
+#: ../functions/functions_ask.php:1946
+msgid "Sorry you can't edit this question."
+msgstr ""
+
+#: ../functions/functions_ask.php:1949
+msgid "Sorry no question select or not found."
+msgstr ""
+
+#: ../functions/functions_ask.php:2051
+#, fuzzy
+#| msgid "Has been added successfully, the question under review ."
+msgid "Has been added successfully, The comment under review."
+msgstr "Додано успішно, запитання відправлено на узгодження."
+
+#: ../functions/functions_ask.php:2088 ../template-edit_comment.php:46
+msgid "You are not allowed to edit this comment."
+msgstr ""
+
+#: ../functions/functions_ask.php:2091 ../template-edit_comment.php:49
+msgid "Sorry no comment has you select or not found."
+msgstr ""
+
+#: ../functions/functions_ask.php:2094
+msgid "There are required fields (comment)."
+msgstr ""
+
+#: ../functions/functions_ask.php:2095
+msgid "You don't modify anything this is the same comment!."
+msgstr ""
+
+#: ../functions/functions_ask.php:2170
+msgid "Sorry you can't edit this post."
+msgstr ""
+
+#: ../functions/functions_ask.php:2173
+msgid "Sorry no post select or not found."
+msgstr ""
+
+#: ../functions/functions_ask.php:2270
+msgid "There are required fields."
+msgstr "Немає необхідних полів."
+
+#: ../functions/functions_ask.php:2271 ../functions/shortcode_ask.php:1450
+msgid "Password does not match."
+msgstr "Паролі не співпадають."
+
+#: ../functions/functions_ask.php:2283
+msgid "Error type ,please upload: jpg,jpeg,png"
+msgstr ""
+
+#: ../functions/functions_ask.php:2291 ../functions/shortcode_ask.php:1491
+msgid "Error in upload the image : "
+msgstr "Помилка при завантаженні зображення:"
+
+#: ../functions/functions_ask.php:2310
+msgid "Profile has been updated"
+msgstr "Профіль оновлено"
+
+#: ../functions/functions_ask.php:2479 ../functions/shortcode_ask.php:77
+msgid "This coupon has expired."
+msgstr ""
+
+#: ../functions/functions_ask.php:2482 ../functions/functions_ask.php:2492
+#: ../functions/shortcode_ask.php:79 ../functions/shortcode_ask.php:81
+msgid "This coupon is not valid."
+msgstr ""
+
+#: ../functions/functions_ask.php:2500
+msgid "Coupon code applied successfully."
+msgstr ""
+
+#: ../functions/functions_ask.php:2520
+msgid "Hello there,"
+msgstr ""
+
+#: ../functions/functions_ask.php:2521
+msgid "A new post has been submitted in "
+msgstr ""
+
+#: ../functions/functions_ask.php:2521
+msgid " Please find details below:"
+msgstr ""
+
+#: ../functions/functions_ask.php:2538
+msgid "To take action (approve/reject)- please go here:"
+msgstr ""
+
+#: ../functions/functions_ask.php:2541
+msgid "Thank You"
+msgstr ""
+
+#: ../functions/functions_ask.php:2542
+msgid "New Post Submission"
+msgstr ""
+
+#: ../functions/messages.php:11 ../functions/messages.php:13
+#: ../functions/messages.php:14 ../functions/messages.php:15
+#: ../functions/messages.php:16 ../functions/shortcode_ask.php:1026
+msgid "Messages"
+msgstr ""
+
+#: ../functions/messages.php:17
+msgid "Add New"
+msgstr "Додати нове"
+
+#: ../functions/messages.php:18
+#, fuzzy
+#| msgid "Add new tag"
+msgid "Add New Message"
+msgstr "Додати новий тег"
+
+#: ../functions/messages.php:19
+msgid "New Message"
+msgstr ""
+
+#: ../functions/messages.php:20
+msgid "Edit Message"
+msgstr ""
+
+#: ../functions/messages.php:21
+msgid "View Message"
+msgstr ""
+
+#: ../functions/messages.php:22
+msgid "View Messages"
+msgstr ""
+
+#: ../functions/messages.php:23
+#, fuzzy
+#| msgid "All tags"
+msgid "All Messages"
+msgstr "Всі теги"
+
+#: ../functions/messages.php:24
+#, fuzzy
+#| msgid "Search in tags"
+msgid "Search Messages"
+msgstr "Шукати в тегах"
+
+#: ../functions/messages.php:25
+#, fuzzy
+#| msgid "Parent question:"
+msgid "Parent Message:"
+msgstr "Похідне запитання:"
+
+#: ../functions/messages.php:26
+#, fuzzy
+#| msgid "No questions found."
+msgid "No Messages Found."
+msgstr "Не знайдено запитань."
+
+#: ../functions/messages.php:27
+#, fuzzy
+#| msgid "No questions found in Trash."
+msgid "No Messages Found in Trash."
+msgstr "У корзині запитань не знайдено."
+
+#: ../functions/messages.php:62
+msgid "Content"
+msgstr ""
+
+#: ../functions/messages.php:64
+msgid "To user"
+msgstr ""
+
+#: ../functions/messages.php:66
+msgid "User delete?"
+msgstr ""
+
+#: ../functions/messages.php:94
+msgid "delete his inbox message."
+msgstr ""
+
+#: ../functions/messages.php:102
+msgid "delete his sended message."
+msgstr ""
+
+#: ../functions/messages.php:106
+msgid "No one delete it"
+msgstr ""
+
+#: ../functions/messages.php:132 ../functions/messages.php:347
+msgid "Sorry, you do not have a permission to send message."
+msgstr ""
+
+#: ../functions/messages.php:134 ../functions/messages.php:137
+#: ../functions/messages.php:349 ../functions/messages.php:352
+#, fuzzy
+#| msgid "You must login to ask question ."
+msgid "You must login to send a message."
+msgstr "Щоб поставити запитання, слід увійти."
+
+#: ../functions/messages.php:176
+msgid "You can't send message for yourself."
+msgstr ""
+
+#: ../functions/messages.php:190 ../functions/shortcode_ask.php:232
+#: ../functions/shortcode_ask.php:702 ../functions/shortcode_ask.php:1125
+#: ../functions/shortcode_ask.php:1280
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: ../functions/messages.php:192 ../functions/shortcode_ask.php:234
+#: ../functions/shortcode_ask.php:704
+msgid "Please type your username ."
+msgstr "Введіть ім'я користувача."
+
+#: ../functions/messages.php:198 ../functions/shortcode_ask.php:240
+#: ../functions/shortcode_ask.php:710
+msgid "Please type your E-Mail ."
+msgstr "Прохання вказати електронну пошту."
+
+#: ../functions/messages.php:202
+#, fuzzy
+#| msgid "Post Title"
+msgid "Message Title"
+msgstr "Тема повідомлення"
+
+#: ../functions/messages.php:207 ../functions/shortcode_ask.php:330
+#: ../functions/shortcode_ask.php:574 ../functions/shortcode_ask.php:751
+#: ../functions/shortcode_ask.php:870
+msgid "Details"
+msgstr "Зміст"
+
+#: ../functions/messages.php:258
+msgid "Send Your Message"
+msgstr ""
+
+#: ../functions/messages.php:309
+#, fuzzy
+#| msgid "Added been successfully"
+msgid "Message been successfully"
+msgstr "Було додано успішно"
+
+#: ../functions/messages.php:309
+#, fuzzy
+#| msgid "Has been edited successfully ."
+msgid "The message has been sended successfully."
+msgstr "Відредаговано успішно."
+
+#: ../functions/messages.php:403
+#, fuzzy
+#| msgid "Error in question."
+msgid "Error in message."
+msgstr "Помилка в запитанні."
+
+#: ../functions/messages.php:454
+msgid "RE:"
+msgstr ""
+
+#: ../functions/payment.php:23
+msgid "Go to PayPal now"
+msgstr ""
+
+#: ../functions/payment.php:23
+msgid "Please wait will go to the PayPal now to pay a new payment."
+msgstr ""
+
+#: ../functions/payment.php:166 ../functions/payment.php:174
+msgid "Successfully payment"
+msgstr ""
+
+#: ../functions/payment.php:166
+msgid "Thank you for your payment you now can make a new question."
+msgstr ""
+
+#: ../functions/payment.php:173
+msgid "Instant Payment Notification - Received Payment"
+msgstr ""
+
+#: ../functions/payment.php:174
+msgid "Thank you for your payment you now can make a new question, Your transaction id "
+msgstr ""
+
+#: ../functions/payment.php:179
+msgid "Payment Failed"
+msgstr ""
+
+#: ../functions/payment.php:179
+msgid "The payment was failed!"
+msgstr ""
+
+#: ../functions/payment.php:183
+msgid "Payment Canceled"
+msgstr ""
+
+#: ../functions/payment.php:183
+msgid "The payment was canceled!"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:8
+msgid "Select a Category"
+msgstr "Оберіть категорію"
+
+#: ../functions/shortcode_ask.php:39
+msgid "Sorry, you do not have a permission to add a question ."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:89
+#, php-format
+msgid "Coupon \"%s\" applied successfully."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:99
+msgid "Coupon does not exist!."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:101
+#, php-format
+msgid "Coupon \"%s\" does not exist!."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:105
+msgid "Pay to ask"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:105
+msgid "Please make a payment to allow to be able to add a question."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:125
+msgid "Free"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:125
+msgid "Ask a free question? Add this coupon."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:135
+#: ../woocommerce/checkout/form-coupon.php:27
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:145
+msgid "Ask a new question"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:153
+msgid "Pay now"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:161
+msgid "Process"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:198
+msgid "You can't ask yourself."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:224
+msgid "Note"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:224
+#, php-format
+msgid "Will lost point %s when add a new question."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:244 ../functions/shortcode_ask.php:494
+msgid "Question Title"
+msgstr "Тема запитання"
+
+#: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
+msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgstr "Ви отримаєте відповідь швидше, якщо оберете заголовок, який найкраще описує суть Вашої проблеми."
+
+#: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506
+msgid "Please choose the appropriate section so easily search for your question ."
+msgstr "Для легшого пошуку Вашого запитання прохання уважно вибрати відповідну категорію. "
+
+#: ../functions/shortcode_ask.php:264 ../functions/shortcode_ask.php:514
+#: ../functions/shortcode_ask.php:723 ../functions/shortcode_ask.php:854
+msgid "Please choose  suitable Keywords Ex : "
+msgstr "Оберіть відповідні ключові слова, наприклад: "
+
+#: ../functions/shortcode_ask.php:264 ../functions/shortcode_ask.php:514
+msgid "question , poll"
+msgstr "ДТП, суд, заява, договір, цивільний спір, консультація"
+
+#: ../functions/shortcode_ask.php:272 ../functions/shortcode_ask.php:522
+msgid "This question is a poll ?"
+msgstr "Бажаєте створити опитування?"
+
+#: ../functions/shortcode_ask.php:273 ../functions/shortcode_ask.php:523
+msgid "If you want to be doing a poll click here ."
+msgstr "Додайте варіанти відповідей."
+
+#: ../functions/shortcode_ask.php:279 ../functions/shortcode_ask.php:318
+#: ../functions/shortcode_ask.php:529
+msgid "Add Field"
+msgstr "Додати поле"
+
+#: ../functions/shortcode_ask.php:362 ../functions/shortcode_ask.php:611
+msgid "Choose from here the video type ."
+msgstr "Оберіть тип відео."
+
+#: ../functions/shortcode_ask.php:368 ../functions/shortcode_ask.php:617
+msgid "Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs EX : 'sdUUx5FdySs' ."
+msgstr "Вставте ID код відео"
+
+#: ../functions/shortcode_ask.php:377 ../functions/shortcode_ask.php:627
+msgid "Notified"
+msgstr "Повідомляти"
+
+#: ../functions/shortcode_ask.php:420 ../functions/shortcode_ask.php:1405
+msgid "Terms"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:422
+#, php-format
+msgid "By posting your question, you agree to the <a target='%s' href='%s'>terms of service</a>."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:438
+msgid "Publish Your Question"
+msgstr "Опублікувати запитання"
+
+#: ../functions/shortcode_ask.php:447
+#, php-format
+msgid "Sorry do not have the minimum points Please do answer questions, even gaining points ( The minimum points = %s ) ."
+msgstr "Вибачте, у Вас немає мінімальної кількості балів. Заробляйте бали відповідаючи, або ставлячи запитання ( Мінімум = %s ) ."
+
+#: ../functions/shortcode_ask.php:647
+msgid "Edit Your Question"
+msgstr "Редагувати Ваше запитання"
+
+#: ../functions/shortcode_ask.php:675
+msgid "Sorry, you do not have a permission to add a post ."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:677 ../functions/shortcode_ask.php:814
+msgid "You must login to add post ."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:714 ../functions/shortcode_ask.php:845
+msgid "Post Title"
+msgstr "Тема повідомлення"
+
+#: ../functions/shortcode_ask.php:716 ../functions/shortcode_ask.php:847
+msgid "Please choose an appropriate title for the post ."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:723 ../functions/shortcode_ask.php:854
+msgid "post , video"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:733 ../functions/shortcode_ask.php:864
+msgid "Please choose the appropriate section so easily search for your post ."
+msgstr "Будь ласка, виберіть відповідний розділ так легко знайти для вашого поста."
+
+#: ../functions/shortcode_ask.php:793
+msgid "Publish Your Post"
+msgstr "Опублікувати свій пост"
+
+#: ../functions/shortcode_ask.php:900
+msgid "Edit Your post"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:942
+msgid "Welcome"
+msgstr "Вітаємо"
+
+#: ../functions/shortcode_ask.php:1018
+msgid "Quick Links"
+msgstr "Особистий кабінет"
+
+#: ../functions/shortcode_ask.php:1023
+msgid "Profile page"
+msgstr "Профіль"
+
+#: ../functions/shortcode_ask.php:1032
+#, fuzzy
+#| msgid "Poll"
+msgid "Polls"
+msgstr "Опитування"
+
+#: ../functions/shortcode_ask.php:1036 ../includes/author-head.php:317
+#: ../template-asked_question.php:23
+#, fuzzy
+#| msgid "Questions"
+msgid "Asked Questions"
+msgstr "Запитання"
+
+#: ../functions/shortcode_ask.php:1040 ../includes/author-head.php:339
+#: ../single-question.php:63
+msgid "Paid question"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1049 ../includes/author-head.php:320
+msgid "Favorite Questions"
+msgstr "Обрані запитання"
+
+#: ../functions/shortcode_ask.php:1052 ../includes/author-head.php:321
+#, fuzzy
+#| msgid "Follow question"
+msgid "Followed Questions"
+msgstr "Обрані запитання"
+
+#: ../functions/shortcode_ask.php:1058 ../includes/author-head.php:331
+msgid "Authors I Follow"
+msgstr "Обрані автори"
+
+#: ../functions/shortcode_ask.php:1072 ../includes/author-head.php:333
+msgid "Follow questions"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1075 ../includes/author-head.php:334
+msgid "Follow answers"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1078 ../includes/author-head.php:335
+msgid "Follow posts"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1081 ../includes/author-head.php:336
+msgid "Follow comments"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1084
+msgid "Activity log"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1087 ../includes/author-head.php:192
+msgid "Edit profile"
+msgstr "Редагувати профіль"
+
+#: ../functions/shortcode_ask.php:1091
+msgid "Logout"
+msgstr "Вийти"
+
+#: ../functions/shortcode_ask.php:1129 ../functions/shortcode_ask.php:1288
+#: ../functions/shortcode_ask.php:1832 ../woocommerce/global/form-login.php:26
+msgid "Password"
+msgstr "Пароль"
+
+#: ../functions/shortcode_ask.php:1131 ../template-login-2.php:25
+msgid "Forget"
+msgstr "Забули пароль?"
+
+#: ../functions/shortcode_ask.php:1163
+msgid "Log in"
+msgstr "Увійти"
+
+#: ../functions/shortcode_ask.php:1168
+msgid "Remember Me"
+msgstr "Пам'ятати мене"
+
+#: ../functions/shortcode_ask.php:1210
+msgid "<strong>Error :&nbsp;</strong>please insert your name ."
+msgstr "<strong>Помилка:&nbsp;</strong>прохання введіть ім'я."
+
+#: ../functions/shortcode_ask.php:1213
+msgid "<strong>Error :&nbsp;</strong>please insert your password ."
+msgstr "<strong>Помилка:&nbsp;</strong>прошу ввести пароль."
+
+#: ../functions/shortcode_ask.php:1292 ../functions/shortcode_ask.php:1836
+msgid "Confirm Password"
+msgstr "Підтвердити пароль"
+
+#: ../functions/shortcode_ask.php:1298 ../functions/shortcode_ask.php:1905
+msgid "Profile Picture"
+msgstr "Зображення профілю"
+
+#: ../functions/shortcode_ask.php:1324 ../functions/shortcode_ask.php:1808
+msgid "First Name"
+msgstr "Ім'я"
+
+#: ../functions/shortcode_ask.php:1328 ../functions/shortcode_ask.php:1812
+msgid "Last Name"
+msgstr "Прізвище"
+
+#: ../functions/shortcode_ask.php:1332 ../functions/shortcode_ask.php:1820
+msgid "Display name"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1407
+#, php-format
+msgid "By registering, you agree to the <a target='%s' href='%s'>terms of service</a>."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1446
+msgid "Please enter your name."
+msgstr "Вкажіть Ваше ім'я"
+
+#: ../functions/shortcode_ask.php:1447 ../functions/shortcode_ask.php:1706
+msgid "Please enter your email."
+msgstr "Прохання ввести електронну пошту."
+
+#: ../functions/shortcode_ask.php:1448
+msgid "Please enter your password."
+msgstr "Прохання ввести Ваш пароль."
+
+#: ../functions/shortcode_ask.php:1449
+msgid "Please rewrite password."
+msgstr "Прохання ввести пароль повторно."
+
+#: ../functions/shortcode_ask.php:1472
+msgid "There are required fields ( captcha )."
+msgstr "Введіть необхідний код"
+
+#: ../functions/shortcode_ask.php:1496
+msgid "There are required fields ( Profile Picture )."
+msgstr "Заповніть обов'язкові поля (Зображення профілю)."
+
+#: ../functions/shortcode_ask.php:1501
+msgid "There are required fields ( Country )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1504
+msgid "There are required fields ( City )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1507
+msgid "There are required fields ( Age )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1510
+msgid "There are required fields ( Phone )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1513
+msgid "There are required fields ( Sex )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1516
+msgid "There are required fields ( First Name )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1519
+msgid "There are required fields ( Last Name )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1522
+msgid "There are required fields ( Display Name )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1527
+msgid "There are required fields ( Agree of the terms )."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1531 ../functions/shortcode_ask.php:1537
+msgid "This account is already registered."
+msgstr "Цього користувача вже зареєстровано."
+
+#: ../functions/shortcode_ask.php:1547
+msgid "<strong>Error</strong>: Sorry can not register please contact the webmaster "
+msgstr "<strong>Помилка</strong>: Реєстрація невдала, прохання написати адміністрації сайту."
+
+#: ../functions/shortcode_ask.php:1583
+msgid "This is the link to activate your membership"
+msgstr "Це посилання для активації Вашого профілю."
+
+#: ../functions/shortcode_ask.php:1585 ../header.php:1093
+msgid "Activate"
+msgstr "Активувати"
+
+#: ../functions/shortcode_ask.php:1589 ../header.php:1097
+msgid "Confirm account"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1689
+msgid "Reset"
+msgstr "Скинути"
+
+#: ../functions/shortcode_ask.php:1708
+msgid "Email is not correct."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1722
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1723
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1724
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1725
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1726
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1727 ../header.php:1094
+msgid "If the link above does not work, Please use your browser to go to:"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1730 ../header.php:1039
+msgid "Reset your password"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1739
+msgid "Check your email please."
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1774
+msgid "Please login to edit profile ."
+msgstr "Щоб редагувати профіль слід увійти."
+
+#: ../functions/shortcode_ask.php:1816
+msgid "Nickname"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1917
+msgid "About Yourself"
+msgstr "Про себе"
+
+#: ../functions/shortcode_ask.php:1960
+msgid "Show your private pages for all the users?"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1975
+msgid "Received mail when user add a new question"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1983
+msgid "Received message from another users?"
+msgstr ""
+
+#: ../functions/shortcode_ask.php:1994
+msgid "Save"
+msgstr ""
+
+#: ../header.php:208 ../header.php:367 ../header.php:524 ../header.php:1131
+#: ../template-login-2.php:24 ../template-login.php:23
+msgid "Register Now"
+msgstr "Зареєструватись"
+
+#: ../header.php:226
+msgid "Lost Password"
+msgstr "Пароль втрачено"
+
+#: ../header.php:228
+msgid "Lost your password? Please enter your email address. You will receive a link and will create a new password via email."
+msgstr ""
+
+#: ../header.php:266
+msgid "Send Message"
+msgstr ""
+
+#: ../header.php:276
+msgid "Add question"
+msgstr "Поставити запитання"
+
+#: ../header.php:369 ../header.php:526 ../header.php:1133
+#: ../template-login.php:25
+msgid "Create an account"
+msgstr "Зареєструвати профіль"
+
+#: ../header.php:611 ../header.php:919
+msgid "Search here ..."
+msgstr "Шукати тут ..."
+
+#: ../header.php:790
+msgid "Ask any question and you be sure find your answer ?"
+msgstr "Поставте запитання та неодмінно отримайте на нього відповідь"
+
+#: ../header.php:848 ../header.php:879
+msgid "Ask Now"
+msgstr "Поставити запитання"
+
+#: ../header.php:1035
+msgid "You are :"
+msgstr "Ви є:"
+
+#: ../header.php:1036
+msgid "The New Password :"
+msgstr "Новий пароль:"
+
+#: ../header.php:1040
+msgid "Your password has been reset"
+msgstr ""
+
+#: ../header.php:1040
+msgid "Check your email."
+msgstr ""
+
+#: ../header.php:1046
+msgid "You are already logged in"
+msgstr ""
+
+#: ../header.php:1046
+#, php-format
+msgid "If you want to change your password go to <a href='%s'>edit profile</a>."
+msgstr ""
+
+#: ../header.php:1080
+msgid "Membership Activated"
+msgstr ""
+
+#: ../header.php:1080
+msgid "Your membership is now activated."
+msgstr ""
+
+#: ../header.php:1083 ../header.php:1101
+msgid "Kindly activate your membership"
+msgstr ""
+
+#: ../header.php:1083
+#, php-format
+msgid "A confirmation email has been sent to your registered email account.If you have not received the confirmation email, kindly  <a href='%s'>Click here</a> to re-send another confirmation email."
+msgstr ""
+
+#: ../header.php:1092
+msgid "Your registration has been successful! To confirm your account, kindly click on 'Activate' below."
+msgstr ""
+
+#: ../header.php:1098
+msgid "Activate the membership"
+msgstr "Активувати рахунок"
+
+#: ../header.php:1098
+msgid "Check your email again."
+msgstr ""
+
+#: ../header.php:1101
+#, php-format
+msgid "A confirmation email has been sent to your registered email account. If you have not received the confirmation email, kindly <a href='%s'>Click here</a> to re-send another confirmation email."
+msgstr ""
+
+#: ../includes/author-head.php:127 ../single-question.php:598 ../single.php:310
+msgid "About"
+msgstr "Інформація"
+
+#: ../includes/author-head.php:159
+msgid "Registered"
+msgstr "Зареєстровано"
+
+#: ../includes/author-head.php:178
+msgid "view"
+msgstr "переглянути"
+
+#: ../includes/author-head.php:310
+msgid "User Stats"
+msgstr "Статистика"
+
+#: ../includes/categories-results.php:11
+msgid "Post"
+msgstr "Публікація"
+
+#: ../includes/search-none.php:4
+msgid "Back To Homepage"
+msgstr ""
+
+#: ../loop-question.php:11
+msgid "No Questions Found."
+msgstr ""
+
+#: ../loop.php:6
+msgid "No Posts Found."
+msgstr ""
+
+#: ../page.php:37 ../post.php:98 ../question.php:158 ../single-question.php:366
+#: ../single.php:93 ../template-asked_question.php:104 ../template-home.php:306
+#: ../template-question_follow.php:64
+#: ../template-user_favorite_questions.php:70
+#: ../template-user_followed_questions.php:62
+#: ../template-user_paid_question.php:72 ../template-user_polls.php:76
+#: ../template-user_question.php:75
+msgid "views"
+msgstr "переглядів"
+
+#: ../post.php:103
+msgid "Continue reading"
+msgstr "Читати далі"
+
+#: ../question-comments.php:10
+msgid "This question is password protected. Enter the password to view comments."
+msgstr "Запитання захищене паролем. Вкажіть пароль, щоб переглянути коментарі."
+
+#: ../question-comments.php:35
+msgid "Sorry, you do not have a permission to show this answers ."
+msgstr ""
+
+#: ../question-comments.php:77
+msgid "Leave an answer"
+msgstr "Відповісти"
+
+#: ../question-comments.php:77
+#, php-format
+msgid "Leave an answer to %s"
+msgstr "Відповідь для %s"
+
+#: ../question-comments.php:112
+msgid "Sorry this question is a special, The admin must answer first ."
+msgstr "Це спеціальне запитання. Спочатку відповідає адміністрація."
+
+#: ../question-comments.php:115
+msgid "Sorry this question is closed ."
+msgstr "Запитання закрите."
+
+#: ../question-comments.php:193
+msgid "Post your answer"
+msgstr "Опублікувати відповідь"
+
+#: ../question-comments.php:201
+#, php-format
+msgid "You must <a href=\"%s\" class=\"login-comments\">login</a> or <a href=\"%s\" class=\"signup\">register</a> to add a new answer ."
+msgstr "Вам слід <a href=\"%s\" class=\"login-comments\">увійти</a> або <a href=\"%s\" class=\"signup\">зареєструватись </a> щоб додати відповідь."
+
+#: ../question-comments.php:204
+msgid "Sorry, you do not have a permission to answer to this question ."
+msgstr ""
+
+#: ../question.php:114
+msgid "Sorry, you do not have a permission to show this question ."
+msgstr ""
+
+#: ../question.php:118 ../single-question.php:162
+msgid "Please briefly explain why you feel this question should be reported ."
+msgstr "Повідомте, що, на Вашу думку, порушує автор цього запитання."
+
+#: ../question.php:131 ../single-question.php:338
+#: ../template-asked_question.php:84 ../template-question_follow.php:51
+#: ../template-user_favorite_questions.php:57
+#: ../template-user_followed_questions.php:49
+#: ../template-user_paid_question.php:59 ../template-user_polls.php:63
+#: ../template-user_question.php:62
+msgid "solved"
+msgstr "вирішено"
+
+#: ../question.php:133 ../single-question.php:340
+#: ../template-asked_question.php:86 ../template-question_follow.php:53
+#: ../template-user_favorite_questions.php:59
+#: ../template-user_followed_questions.php:51
+#: ../template-user_paid_question.php:61 ../template-user_polls.php:65
+#: ../template-user_question.php:64
+msgid "closed"
+msgstr "закрито"
+
+#: ../question.php:135 ../single-question.php:342
+#: ../template-asked_question.php:88 ../template-question_follow.php:55
+#: ../template-user_favorite_questions.php:61
+#: ../template-user_followed_questions.php:53
+#: ../template-user_paid_question.php:63 ../template-user_polls.php:67
+#: ../template-user_question.php:66
+msgid "in progress"
+msgstr "іде обговорення"
+
+#: ../question.php:161
+msgid "points"
+msgstr ""
+
+#: ../question.php:192
+msgid "Sorry it private question ."
+msgstr "Це приватне запитання, вибачте."
+
+#: ../search.php:11 ../template-search.php:11
+#, fuzzy
+#| msgid "Search results for "
+msgid "Search results for"
+msgstr "Результати пошуку для"
+
+#: ../single-question.php:45 ../template-asked_question.php:110
+#: ../template-question_follow.php:70
+#: ../template-user_favorite_questions.php:76
+#: ../template-user_followed_questions.php:68
+#: ../template-user_paid_question.php:78 ../template-user_polls.php:82
+#: ../template-user_question.php:81
+msgid "Sorry it a private question ."
+msgstr "Перепрошуємо, ця відповідь має статус приватної."
+
+#: ../single-question.php:63
+msgid "This is a paid question."
+msgstr ""
+
+#: ../single-question.php:66
+msgid "Transaction id"
+msgstr ""
+
+#: ../single-question.php:66
+msgid "The transaction id"
+msgstr ""
+
+#: ../single-question.php:69
+msgid "PayPal sandbox"
+msgstr ""
+
+#: ../single-question.php:69
+msgid "This transaction is from PayPal sandbox."
+msgstr ""
+
+#: ../single-question.php:102 ../single-question.php:295
+#: ../template-asked_question.php:60 ../template-user_paid_question.php:39
+#: ../template-user_polls.php:39 ../template-user_question.php:38
+msgid "Edit the question"
+msgstr "Редагувати запитання"
+
+#: ../single-question.php:107 ../single-question.php:300
+#: ../template-asked_question.php:70 ../template-user_paid_question.php:45
+#: ../template-user_polls.php:49 ../template-user_question.php:48
+msgid "Delete the question"
+msgstr ""
+
+#: ../single-question.php:126 ../single-question.php:319
+msgid "Open the question"
+msgstr "Відкрити запитання"
+
+#: ../single-question.php:130 ../single-question.php:323
+msgid "Close the question"
+msgstr "Закрити запитання"
+
+#: ../single-question.php:185
+msgid "voter"
+msgstr "голос"
+
+#: ../single-question.php:193
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: ../single-question.php:212
+msgid "Results"
+msgstr "Результати"
+
+#: ../single-question.php:253
+msgid "Remove the question of my favorites"
+msgstr "Видалити запитання з моїх обраних"
+
+#: ../single-question.php:255 ../single-question.php:259
+msgid "Add a question to Favorites"
+msgstr "Додати запитання до обраних"
+
+#: ../single-question.php:267
+msgid "Question bump points"
+msgstr "Оцінити запитання"
+
+#: ../single-question.php:268
+msgid "Bump"
+msgstr "Просунути"
+
+#: ../single-question.php:319
+msgid "Open"
+msgstr ""
+
+#: ../single-question.php:323
+msgid "Close"
+msgstr ""
+
+#: ../single-question.php:333
+msgid "Sorry do not have permission to show the questions !"
+msgstr ""
+
+#: ../single-question.php:448 ../single.php:161
+msgid "Tumblr"
+msgstr ""
+
+#: ../single-question.php:475 ../single.php:188
+msgid "Share"
+msgstr "Поділитись"
+
+#: ../single-question.php:699
+msgid "Related questions"
+msgstr "Подібні запитання"
+
+#: ../single-question.php:720
+msgid "&nbsp;Previous question"
+msgstr "&nbsp;Попереднє запитання"
+
+#: ../single-question.php:723
+msgid "Next question&nbsp;"
+msgstr "Наступне запитання&nbsp;"
+
+#: ../single.php:52
+msgid "Edit the post"
+msgstr ""
+
+#: ../single.php:67
+msgid "Delete the post"
+msgstr ""
+
+#: ../single.php:416
+msgid "Related Posts"
+msgstr "Подібні публікації"
+
+#: ../single.php:437
+msgid "&nbsp;Previous post"
+msgstr "&nbsp;Попередня публікація"
+
+#: ../single.php:440
+msgid "Next post&nbsp;"
+msgstr "Наступна публікація&nbsp;"
+
+#: ../template-activity_log.php:11 ../template-notifications.php:11
+msgid "Please login to see the activity log."
+msgstr ""
+
+#: ../template-activity_log.php:84
+msgid "Poll at question"
+msgstr ""
+
+#: ../template-activity_log.php:86
+msgid "Vote up question."
+msgstr ""
+
+#: ../template-activity_log.php:88
+msgid "Vote down question."
+msgstr ""
+
+#: ../template-activity_log.php:90
+msgid "Vote up answer."
+msgstr ""
+
+#: ../template-activity_log.php:92
+msgid "Vote down answer."
+msgstr ""
+
+#: ../template-activity_log.php:94
+msgid "You follow"
+msgstr ""
+
+#: ../template-activity_log.php:96
+msgid "You unfollow"
+msgstr ""
+
+#: ../template-activity_log.php:98
+msgid "You bump your question."
+msgstr ""
+
+#: ../template-activity_log.php:100
+msgid "You report a question."
+msgstr ""
+
+#: ../template-activity_log.php:102
+msgid "You report a answer."
+msgstr ""
+
+#: ../template-activity_log.php:104
+msgid "You choose the best answer."
+msgstr ""
+
+#: ../template-activity_log.php:106
+msgid "You cancel the best answer."
+msgstr ""
+
+#: ../template-activity_log.php:108
+msgid "You closed the question."
+msgstr ""
+
+#: ../template-activity_log.php:110
+msgid "You opend the question."
+msgstr ""
+
+#: ../template-activity_log.php:112
+msgid "You follow the question."
+msgstr ""
+
+#: ../template-activity_log.php:114
+msgid "You unfollow the question."
+msgstr ""
+
+#: ../template-activity_log.php:116
+msgid "You add a answer."
+msgstr ""
+
+#: ../template-activity_log.php:118
+msgid "You add a comment."
+msgstr ""
+
+#: ../template-activity_log.php:120
+msgid "Your answer pending for review."
+msgstr ""
+
+#: ../template-activity_log.php:122
+msgid "Your comment pending for review."
+msgstr ""
+
+#: ../template-activity_log.php:124 ../template-user_points.php:90
+msgid "Add a new question."
+msgstr ""
+
+#: ../template-activity_log.php:126
+msgid "add a new post."
+msgstr ""
+
+#: ../template-activity_log.php:128
+msgid "Your question pending for review."
+msgstr ""
+
+#: ../template-activity_log.php:130
+msgid "Your post pending for review."
+msgstr ""
+
+#: ../template-activity_log.php:132
+msgid "You add a question at favorites."
+msgstr ""
+
+#: ../template-activity_log.php:134
+msgid "You remove a question from favorites."
+msgstr ""
+
+#: ../template-activity_log.php:136
+msgid "You delete a question."
+msgstr ""
+
+#: ../template-activity_log.php:138
+msgid "You delete a post."
+msgstr ""
+
+#: ../template-activity_log.php:140
+msgid "You send a message for"
+msgstr ""
+
+#: ../template-activity_log.php:159
+msgid "You delete your inbox message"
+msgstr ""
+
+#: ../template-activity_log.php:161
+msgid "You delete your sended message"
+msgstr ""
+
+#: ../template-activity_log.php:189 ../template-notifications.php:176
+msgid "ago"
+msgstr ""
+
+#: ../template-activity_log.php:194
+msgid "There are no activities yet."
+msgstr ""
+
+#: ../template-activity_log.php:206 ../template-asked_question.php:123
+#: ../template-messages.php:106 ../template-notifications.php:193
+#: ../template-user_points.php:132
+msgid "This page is not active."
+msgstr ""
+
+#: ../template-answer_follow.php:70 ../template-recently_answered.php:27
+#: ../template-user_answer.php:54 ../template-user_best_answer.php:54
+msgid "Sorry it a private answer ."
+msgstr "Перепрошуємо, ця відповідь має статус приватної."
+
+#: ../template-answer_follow.php:75 ../template-recently_answered.php:50
+#: ../template-user_answer.php:59 ../template-user_best_answer.php:59
+msgid "No answers yet ."
+msgstr "Жодних відповідей немає."
+
+#: ../template-answer_follow.php:77 ../template-comment_follow.php:68
+#: ../template-i_follow.php:148 ../template-post_follow.php:40
+#: ../template-question_follow.php:75
+msgid "There are no user follow yet ."
+msgstr "На даний час, читачів у користувача немає."
+
+#: ../template-asked_question.php:24
+#, fuzzy
+#| msgid "Favorite Questions"
+msgid "Waiting Questions"
+msgstr "Обрані запитання"
+
+#: ../template-asked_question.php:113 ../template-question_follow.php:73
+#: ../template-user_paid_question.php:81 ../template-user_polls.php:85
+#: ../template-user_question.php:84
+msgid "No questions yet ."
+msgstr "Зараз запитань немає."
+
+#: ../template-badges.php:8
+msgid "Badges"
+msgstr ""
+
+#: ../template-badges.php:35
+msgid "Add a new question"
+msgstr ""
+
+#: ../template-badges.php:38
+msgid "Points choose best answer"
+msgstr ""
+
+#: ../template-badges.php:41
+msgid "Points rating question"
+msgstr ""
+
+#: ../template-badges.php:44
+msgid "Points add answer"
+msgstr ""
+
+#: ../template-badges.php:47
+msgid "Points rating answer"
+msgstr ""
+
+#: ../template-badges.php:50
+msgid "Points following user"
+msgstr ""
+
+#: ../template-badges.php:53
+msgid "Points for a new user"
+msgstr ""
+
+#: ../template-badges.php:56
+msgid "Add a new post"
+msgstr ""
+
+#: ../template-comment_follow.php:66 ../template-user_comments.php:51
+#, fuzzy
+#| msgid "No posts yet ."
+msgid "No comments yet ."
+msgstr "Зараз публікацій немає."
+
+#: ../template-contact_us.php:42
+msgid "About Us"
+msgstr "Про нас"
+
+#: ../template-contact_us.php:52
+msgid "Phone number :"
+msgstr "Номер телефону:"
+
+#: ../template-contact_us.php:55
+msgid "E-mail :"
+msgstr "E-mail :"
+
+#: ../template-contact_us.php:59
+msgid "Social links :"
+msgstr "Соцмережі:"
+
+#: ../template-contact_us.php:107
+msgid "RSS"
+msgstr "Стрічка новин"
+
+#: ../template-contact_us.php:125
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../template-edit_comment.php:41
+msgid "Edit Comment"
+msgstr ""
+
+#: ../template-edit_post.php:16 ../template-edit_post.php:19
+msgid "Sorry you can't edit this post ."
+msgstr ""
+
+#: ../template-edit_post.php:22
+msgid "Sorry no post has you select or not found ."
+msgstr ""
+
+#: ../template-edit_question.php:18 ../template-edit_question.php:21
+msgid "Sorry you can't edit this question ."
+msgstr "Ви не можете редагувати дане запитання."
+
+#: ../template-edit_question.php:24
+msgid "Sorry no question has you select or not found ."
+msgstr ""
+
+#: ../template-edit_question.php:27
+msgid "Sorry you don't have a premmisions to edit this question ."
+msgstr ""
+
+#: ../template-followers.php:148
+msgid "There are no Followers yet ."
+msgstr "На даний час читачів немає."
+
+#: ../template-home.php:67
+msgid "Recent Questions"
+msgstr "Останні запитання"
+
+#: ../template-home.php:70
+msgid "Most Responses"
+msgstr "Цікаві запитання"
+
+#: ../template-home.php:73
+msgid "Recently Answered"
+msgstr "Останні відповіді"
+
+#: ../template-home.php:76 ../template-recently_answered.php:49
+msgid "No answers"
+msgstr "Без відповіді"
+
+#: ../template-home.php:79
+msgid "Most Visit"
+msgstr "Складні запитання"
+
+#: ../template-home.php:82
+msgid "Most Vote"
+msgstr "Голосування"
+
+#: ../template-home.php:85
+msgid "Questions Bump"
+msgstr ""
+
+#: ../template-home.php:88
+msgid "Recent Posts"
+msgstr ""
+
+#: ../template-home.php:189
+msgid "No answers Found."
+msgstr ""
+
+#: ../template-home.php:242 ../template-questions_bump.php:22
+msgid "This page is not active ."
+msgstr ""
+
+#: ../template-messages.php:11
+#, fuzzy
+#| msgid "Please login to edit profile ."
+msgid "Please login to see the your messages."
+msgstr "Щоб редагувати профіль слід увійти."
+
+#: ../template-messages.php:20
+msgid "inbox"
+msgstr ""
+
+#: ../template-messages.php:21
+msgid "Send"
+msgstr ""
+
+#: ../template-messages.php:61
+msgid "View the message"
+msgstr ""
+
+#: ../template-messages.php:92
+#, fuzzy
+#| msgid "No answers yet ."
+msgid "No messages yet ."
+msgstr "Жодних відповідей немає."
+
+#: ../template-user_favorite_questions.php:44
+msgid "remove the question"
+msgstr "видалити запитання"
+
+#: ../template-user_favorite_questions.php:79
+#: ../template-user_favorite_questions.php:81
+#: ../template-user_favorite_questions.php:84
+#: ../template-user_followed_questions.php:71
+#: ../template-user_followed_questions.php:73
+#: ../template-user_followed_questions.php:76
+msgid "There are no questions ."
+msgstr "Зараз запитань немає."
+
+#: ../template-user_points.php:74
+msgid "Rating your question."
+msgstr ""
+
+#: ../template-user_points.php:76
+msgid "Rating your answer."
+msgstr ""
+
+#: ../template-user_points.php:78
+msgid "User follow You."
+msgstr ""
+
+#: ../template-user_points.php:80
+msgid "User unfollow You."
+msgstr ""
+
+#: ../template-user_points.php:82
+msgid "Discount points to bump question."
+msgstr ""
+
+#: ../template-user_points.php:84
+msgid "Choose your answer best answer."
+msgstr ""
+
+#: ../template-user_points.php:86
+msgid "Cancel your answer best answer."
+msgstr ""
+
+#: ../template-user_points.php:88
+msgid "You answer the question."
+msgstr ""
+
+#: ../template-user_points.php:92
+msgid "Add a new post."
+msgstr ""
+
+#: ../template-user_points.php:96
+msgid "You charged points for Add a question."
+msgstr ""
+
+#: ../template-user_points.php:106
+msgid "Your comment is removed."
+msgstr ""
+
+#: ../template-user_points.php:108
+msgid "Delete your best answer."
+msgstr ""
+
+#: ../template-user_points.php:110
+msgid "Delete your follow user."
+msgstr ""
+
+#: ../template-user_points.php:125
+msgid "There are no points yet."
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:35 ../woocommerce/checkout/form-pay.php:28
+#: ../woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:36
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:37
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:137
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:142
+msgid "Empty Cart"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:20
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:43
+#: ../woocommerce/cart/shipping-calculator.php:49
+#: ../woocommerce/cart/shipping-calculator.php:61
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:78
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:83
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:18
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:23
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:22
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:29
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:30
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:68
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:22
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:38
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:42
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:15
+#: ../woocommerce/single-product/sale-flash.php:15
+msgid "Out"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:20
+#: ../woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:42
+msgid "Reviews :"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:42
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:52
+msgid "verified owner"
+msgstr ""
+
+#~ msgid "Notified by e-mail at incoming answers"
+#~ msgstr "Повідомлено електронною поштою щодо відповідей"
+
+#~ msgid "Add New question"
+#~ msgstr "Додати нове запитання"
+
+#~ msgid "Search in categories"
+#~ msgstr "Шукати в категоріях"
+
+#~ msgid "All categories"
+#~ msgstr "Усі категорії"
+
+#~ msgid "Add a new category"
+#~ msgstr "Додати нову категорію"
+
+#~ msgid "Search in tags"
+#~ msgstr "Шукати в тегах"
+
+#~ msgid "All tags"
+#~ msgstr "Всі теги"
+
+#~ msgid "Add new tag"
+#~ msgstr "Додати новий тег"
+
+#~ msgid " ago "
+#~ msgstr "тому назад"
+
+#~ msgid "Type the description thoroughly and in details ."
+#~ msgstr "Введіть опис ретельно і в деталях."
+
+#~ msgid "View question"
+#~ msgstr "Переглянути запитання"
+
+#~ msgid "All questions"
+#~ msgstr "Усі запитання"
+
+#~ msgid "Search questions"
+#~ msgstr "Шукати в запитаннях"
+
+#~ msgid "Added by"
+#~ msgstr "Хто надіслав:"
+
+#~ msgid "There are required fields ( username )."
+#~ msgstr "Необхідно заповнити поля (користувач)."
+
+#~ msgid "There are required fields ( email )."
+#~ msgstr "Необхідно заповнити поля (email)."
+
+#~ msgid "There are required fields ( title )."
+#~ msgstr "Необхідно заповнити поля (тема)."
+
+#~ msgid "There are required fields ( category )."
+#~ msgstr "Необхідно заповнити поля (категорія)."
+
+#~ msgid "There are required fields ( Video ID )."
+#~ msgstr "Необхідно заповнити поля (Video ID)."
+
+#~ msgid "There are required fields ( comment )."
+#~ msgstr "Необхідно заповнити поля (коментар)."
+
+#~ msgid "Check your email again ."
+#~ msgstr "Перевірте Вашу електронну адресу знову."
+
+#~ msgid "Rating your answer"
+#~ msgstr "Оцінка Вашої відповіді"
+
+#~ msgid "User unfollow You"
+#~ msgstr "Користувач переста читати Вас"
+
+#~ msgid "User follow You"
+#~ msgstr "Користувач почав читати Вас"
+
+#~ msgid "Discount points to bump question"
+#~ msgstr "Витрачено бали на просування запитання"
+
+#~ msgid "Choose your answer Best Answer"
+#~ msgstr "Вашу відповідь обрано найкращою"
+
+#~ msgid "Cancel your answer Best Answer"
+#~ msgstr "Відмінено Вашу відповідь як найкращу"
+
+#~ msgid "You answer the question"
+#~ msgstr "Ви відповіли на запитання"
+
+#~ msgid "There are no points yet ."
+#~ msgstr "Зараз балів немає."
+
+#~ msgid "Select Files"
+#~ msgstr "Обрати файли"
+
+#~ msgid "Select Images"
+#~ msgstr "Обрати Зображення"
+
+#~ msgid "User"
+#~ msgstr "Користувач"
+
+#~ msgid "About the Author"
+#~ msgstr "Про автора"
+
+#~ msgid "Sorry no mistake, this is not a question asked ."
+#~ msgstr "Вибачте помилки немає, це було не запитання."
+
+#~ msgid "You must enter a numeric value and a value greater than zero ."
+#~ msgstr "Введіть цифрове значення, більше за нуль."
+
+#~ msgid "Your points are insufficient ."
+#~ msgstr "Ваших балів недостатньо."
+
+#~ msgid "Sorry no question select or not found ."
+#~ msgstr "Запитань не вибрано або не знайдено."
+
+#~ msgid "Sorry, you cannot vote on the same comment more than once."
+#~ msgstr ""
+#~ "Вибачте, Ви не можете віддавати свій голос двічі за один і той же "
+#~ "коментар."
+
+#~ msgid "Page %s"
+#~ msgstr "Сторінка %s"
+
+#~ msgid ""
+#~ "Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs EX : "
+#~ "'sdUUx5FdySs' . ."
+#~ msgstr ""
+#~ "Введіть тут код відео : https://www.youtube.com/watch?v=sdUUx5FdySs EX : "
+#~ "'sdUUx5FdySs' . ."
+
+#~ msgid "Page not Found"
+#~ msgstr "Сторінку не знайдено"
+
+#~ msgid "Your membership is activate now ."
+#~ msgstr "Ваш рахунок активовано"
+
+#~ msgid ""
+#~ "Please activate your membership, Click on the link has been sent to "
+#~ "email, If you lost it <a href='%s'>Click here</a> to send it again ."
+#~ msgstr ""
+#~ "Щоб активувати Ваш рахунок, натисніть на посилання, яка надіслане Вам на "
+#~ "електонну пошту. Якщо посилання не прийшло <a href='%s'>натисніть сюди</"
+#~ "a> щоб надіслати його знов."
+
+#~ msgid ""
+#~ "Lost your password? Please enter your username and email address. You "
+#~ "will receive a link to create a new password via email."
+#~ msgstr "Професійна юридична консультація. Безкоштовно."
+
+#~ msgid "Name or Email is not correct."
+#~ msgstr "Ім'я чи електронна пошта, невірно."
+
+#~ msgid "Your password"
+#~ msgstr "Ваш пароль"
+
+#~ msgid "A reset password will be sent to this email address"
+#~ msgstr "Новий пароль буде надіслано на електронну пошту"
+
+#~ msgid "Follow answer"
+#~ msgstr "Обрані відповіді"
+
+#~ msgid "Leave an reply"
+#~ msgstr "Залишити відгук"
+
+#~ msgid "Leave an reply to %s"
+#~ msgstr "Залишити відгук для %s"
+
+#~ msgid "Report abuse"
+#~ msgstr "Повідомити про порушення"
+
+#~ msgid ""
+#~ "Please choose an appropriate title for the post to answer it even easier ."
+#~ msgstr ""
+#~ "Будь ласка, виберіть відповідну назву для поста, щоб відповісти на нього "
+#~ "ще простіше."
+
+#~ msgid "Comments are closed."
+#~ msgstr "Коментування закрите."
+
+#~ msgid "You must type in all required fields!"
+#~ msgstr "Вам слід заповнити всі необхідні поля!"
+
+#~ msgid "You must book at least two options to vote!"
+#~ msgstr "Оберіть мінімум два варіанти для голосування! "
+
+#~ msgid "Category must be selected!"
+#~ msgstr "Слід обрати категорію!"
+
+#~ msgid "Type the description thoroughly and in detail ."
+#~ msgstr "Детальний опис проблеми."
+
+#~ msgid "Wrong name."
+#~ msgstr "Невірне ім'я."
+
+#~ msgid ""
+#~ "Please activate your membership, Click on the link has been sent to "
+#~ "email ."
+#~ msgstr ""
+#~ "Прохання активувати Ваш рахунок. Перейдіть за посиланням надісланим Вам "
+#~ "на електронну адресу."
