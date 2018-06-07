@@ -462,9 +462,7 @@ if (is_user_logged_in) {
 				$social_mobile = vpanel_options("social_mobile");
 				if ($social_mobile == 1) {?>
 					<div class="social_icons f_right">
-						<?php 
-						#include("includes/social.php");
-						?>
+						<?php include("includes/social.php");?>
 					</div><!-- End social_icons -->
 				<?php }?>
 			</div><!-- End mobile-aside-inner-inner -->
@@ -550,9 +548,7 @@ if (is_user_logged_in) {
 								<?php $social_icon_h = vpanel_options("social_icon_h");
 								if ($social_icon_h == 1) {?>
 									<div class="social_icons f_right<?php echo (!is_search() && !is_page_template("template-search.php")?"":" not-show-search")?>">
-										<?php
-										#include("includes/social.php");
-										?>
+										<?php include("includes/social.php");?>
 									</div><!-- End social_icons -->
 								<?php }
 								
@@ -741,24 +737,6 @@ if (is_user_logged_in) {
 				</div>
 			</section><!-- End container -->
 		</header><!-- End header -->
-
-		<?php if (is_page_template("template-home.php") || is_front_page()) { ?>
-			<div class="jumbo-container">
-				<div class="jumbo">
-					<div class="jumbo-slogan">
-							Legal questions <br>
-							Answers from trusted Lawyers
-					</div>
-					<div class="jumbo-search">
-						<form class="form-style form-style-2 jumbo-form" method="get" action="<?php echo esc_url((isset($search_page) && $search_page != ""?get_page_link($search_page):""))?>">
-							<input type="text" name="search" class="jumbo-search-input" placeholder="Search questions &amp; answers"><button class="jumbo-search-button">Search</button>
-							<input type="hidden" name="page_id" value="<?php echo esc_attr($search_page)?>">
-							<input type="hidden" name="search_type" value="<?php echo esc_attr($search_type)?>">
-						</form>
-					</div>
-				</div>
-			</div>
-		<?php } ?>
 		
 		<?php $top_after_header = false;
 		if ($site_users_only != "yes") {
@@ -939,7 +917,7 @@ if (is_user_logged_in) {
 		$big_search = vpanel_options("big_search");
 		$big_search_work = vpanel_options("big_search_work");
 		if (($big_search_work == "all_pages" || ((is_front_page() || is_home()) && $big_search_work == "home_page") || (!is_front_page() && !is_home() && $big_search_work == "pages_no_home")) && $big_search == 1 && !is_search() && !is_page_template("template-search.php")) {?>
-			<div class="section-warp top-after-header big-search" style="display:none;">
+			<div class="section-warp top-after-header big-search">
 				<div class="container clearfix">
 					<div class="box_icon box_warp box_no_border box_no_background">
 						<div class="row">
@@ -961,7 +939,6 @@ if (is_user_logged_in) {
 					</div><!-- End box_icon -->
 				</div><!-- End container -->
 			</div><!-- End section-warp -->
-
 		<?php }
 		
 		do_action("askme_after_header_search");
@@ -1075,18 +1052,7 @@ if (is_user_logged_in) {
 			
 			<div class="row">
 				<div class="with-sidebar-container">
-					<?php 
-					if (is_front_page() || is_home()) {
-					?>
-						<div class="main-no-sidebar">
-					<?php }
-					else{ 
-					?>
-						<div class="main-sidebar-container <?php echo (!is_404() && $site_users_only != "yes"?$homepage_content_span:$full_span);?>">
-					<?php
-					}
-					?>
-					
+					<div class="main-sidebar-container <?php echo (!is_404() && $site_users_only != "yes"?$homepage_content_span:$full_span);?>">
 					<?php if (isset($_GET['reset_password']) && $get_u != "") {
 						if (!is_user_logged_in) {
 							$reset_password = get_user_meta($get_u,"reset_password",true);

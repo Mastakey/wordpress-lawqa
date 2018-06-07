@@ -3668,7 +3668,7 @@ msgid "Question Title"
 msgstr "Tiêu đề Câu hỏi"
 
 #: functions/shortcode_ask.php:246 functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid ""
 msgstr "Vui lòng chọn một tên thích hợp cho các câu hỏi để trả lời nó thậm chí còn dễ dàng hơn."
 
 #: functions/shortcode_ask.php:256 functions/shortcode_ask.php:506

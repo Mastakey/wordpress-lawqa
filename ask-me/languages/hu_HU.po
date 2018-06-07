@@ -3053,7 +3053,7 @@ msgid "Question Title"
 msgstr "Kérdés címe"
 
 #: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid ""
 msgstr "Kérlek válassz egy rövid, lényegretörő címet a kérdésednek."
 
 #: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506

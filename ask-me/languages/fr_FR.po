@@ -2768,7 +2768,7 @@ msgid "<input type='hidden'/>"
 msgstr ""
 
 #: ../admin/meta-box/js/jquery.validate.min.js:2
-msgid "."
+msgid ""
 msgstr ""
 
 #: ../admin/meta-box/js/jquery.validate.min.js:2
@@ -3736,7 +3736,7 @@ msgid "Question Title"
 msgstr "Titre de la question"
 
 #: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid "."
 msgstr "S'il vous plaît n'oublier pas de choisir un titre approprié pour la question."
 
 #: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506

@@ -3065,7 +3065,7 @@ msgid "Question Title"
 msgstr "Titolo domanda"
 
 #: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid ""
 msgstr "Scegli un titolo appropriato per la domanda così da risponderla ancora più facilmente."
 
 #: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506

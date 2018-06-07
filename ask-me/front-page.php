@@ -19,5 +19,12 @@
 		$type = "https://www.dailymotion.com/embed/video/".$video_id;
 	}
 ?>
-    <div>LAW QA</div>
+<div class="front-page-content">
+	<div class="recent-questions">
+		<h2>Recent Questions</h2>
+	</div>
+	<div class="nearby-lawyers">
+		<h2>Nearby Lawyers</h2>
+	</div>
+</div>
 <?php get_footer();?>

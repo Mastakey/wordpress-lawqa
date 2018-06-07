@@ -3071,7 +3071,7 @@ msgid "Question Title"
 msgstr "Тема запитання"
 
 #: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid ""
 msgstr "Ви отримаєте відповідь швидше, якщо оберете заголовок, який найкраще описує суть Вашої проблеми."
 
 #: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506

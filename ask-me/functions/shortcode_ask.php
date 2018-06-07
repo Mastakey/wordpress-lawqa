@@ -434,7 +434,7 @@ function ask_question_shortcode($atts, $content = null) {
 												$out .= '<p>
 													<label for="question-title-'.$rand_q.'" class="required">'.__("Question Title","vbegy").'<span>*</span></label>
 													<input name="title" id="question-title-'.$rand_q.'" class="the-title" type="text" value="'.(isset($posted['title'])?ask_kses_stip($posted['title']):(isset($_POST["title"])?ask_kses_stip($_POST["title"]):"")).'">
-													<span class="form-description">'.__("Please choose an appropriate title for the question to answer it even easier .","vbegy").'</span>
+													<span class="form-description">'.__("","vbegy").'</span>
 												</p>';
 											}
 											if ($users_by_id == 0) {
@@ -735,7 +735,7 @@ function edit_question_shortcode($atts, $content = null) {
 								$out .= '<p>
 									<label for="question-title-'.$rand_e.'" class="required">'.__("Question Title","vbegy").'<span>*</span></label>
 									<input name="title" id="question-title-'.$rand_e.'" class="the-title" type="text" value="'.(isset($posted['title'])?ask_kses_stip($posted['title']):ask_kses_stip($get_post_q->post_title)).'">
-									<span class="form-description">'.__("Please choose an appropriate title for the question to answer it even easier .","vbegy").'</span>
+									<span class="form-description">'.__("","vbegy").'</span>
 								</p>';
 							}
 							

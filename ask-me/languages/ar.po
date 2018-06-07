@@ -8244,7 +8244,7 @@ msgstr "عنوان السؤال"
 
 #: functions/shortcode_ask.php:437 functions/shortcode_ask.php:738
 msgid ""
-"Please choose an appropriate title for the question to answer it even easier ."
+"."
 msgstr "يرجى اختيار عنوان مناسب للسؤال حتي يتم الرد عليه بسهوله ."
 
 #: functions/shortcode_ask.php:447 functions/shortcode_ask.php:749

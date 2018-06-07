@@ -40,5 +40,5 @@ blockquote {
 	color: #ca5c4e;
 }
 .top-after-header .col-md-9 p textarea,.widget_login input[type="text"],.widget_search input[type="text"],.widget_search input[type="search"],.widget_product_search input[type="search"],.subscribe_widget input[type="text"],.widget_login input[type="password"],.panel_light.login-panel input[type="text"],.panel_light.login-panel input[type="password"],blockquote,.qoute {
-	background: rgba(255,115,97,0.20);
+	/* background: rgba(255,115,97,0.20); */
 }

@@ -3063,7 +3063,7 @@ msgid "Question Title"
 msgstr "Soru Başlığı"
 
 #: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid ""
 msgstr "Soru için uygun bir başlık seçiniz ."
 
 #: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506

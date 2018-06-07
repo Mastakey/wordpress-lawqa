@@ -3055,7 +3055,7 @@ msgid "Question Title"
 msgstr "Заголовок вопроса"
 
 #: ../functions/shortcode_ask.php:246 ../functions/shortcode_ask.php:496
-msgid "Please choose an appropriate title for the question to answer it even easier ."
+msgid ""
 msgstr "Короткое описание вопрос. \"Не могу опубликовать пост в группе\""
 
 #: ../functions/shortcode_ask.php:256 ../functions/shortcode_ask.php:506
