@@ -4047,6 +4047,7 @@ span.date i,span.comment i {
 }
 /* breadcrumbs */
 .breadcrumbs {
+	display:none;
 	margin-bottom: 70px;
 	line-height: 50px;
 	position: relative;
