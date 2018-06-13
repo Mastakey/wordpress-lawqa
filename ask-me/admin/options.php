@@ -5104,7 +5104,7 @@ function optionsframework_options() {
 		'name' => esc_html__('Copyrights','vbegy'),
 		'desc' => esc_html__('Put the copyrights of footer.','vbegy'),
 		'id' => 'footer_copyrights',
-		'std' => 'Copyright 2018 Ask me | <a href=https://2code.info/>By 2code</a>',
+		'std' => 'Copyright 2018 LawQA | <a href=#>LawQA</a>',
 		'type' => 'textarea');
 	
 	$options[] = array(
